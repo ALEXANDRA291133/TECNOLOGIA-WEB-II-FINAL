@@ -1,0 +1,571 @@
+# English translations
+# Web Technology II Project
+
+msgid "Plantas"
+msgstr "Plants"
+
+msgid "Mis Tareas"
+msgstr "My Tasks"
+
+msgid "Iniciar Sesión"
+msgstr "Login"
+
+msgid "Cerrar Sesión"
+msgstr "Logout"
+
+msgid "Bienvenido al sistema."
+msgstr "Welcome to the system."
+
+msgid "Proyecto Tecnología Web II"
+msgstr "Web Technology II Project"
+
+msgid "Ingrese sus credenciales"
+msgstr "Enter your credentials"
+
+msgid "Correo electrónico"
+msgstr "Email address"
+
+msgid "Contraseña"
+msgstr "Password"
+
+msgid "Entrar"
+msgstr "Sign In"
+
+msgid "Gestión de Plantas"
+msgstr "Plant Management"
+
+msgid "Listado de Plantas"
+msgstr "Plant List"
+
+msgid "Gestionar Usuarios"
+msgstr "Manage Users"
+
+msgid "Nombre Común"
+msgstr "Common Name"
+
+msgid "Nombre Científico"
+msgstr "Scientific Name"
+
+msgid "Tipo"
+msgstr "Type"
+
+msgid "Estado"
+msgstr "Status"
+
+msgid "Acciones"
+msgstr "Actions"
+
+msgid "Ver"
+msgstr "View"
+
+msgid "Editar"
+msgstr "Edit"
+
+msgid "Borrar"
+msgstr "Delete"
+msgid "Plantas"
+msgstr "Plants"
+
+msgid "Mis Tareas"
+msgstr "My Tasks"
+
+msgid "Mis Tareas Multilingües"
+msgstr "Multilingual My Tasks"
+
+msgid "Iniciar Sesión"
+msgstr "Login"
+
+msgid "Cerrar Sesión"
+msgstr "Logout"
+
+msgid "Bienvenido al sistema."
+msgid "Plantas"
+msgstr "Plants"
+
+msgid "Mis Tareas"
+msgstr "My Tasks"
+
+msgid "Mis Tareas Multilingües"
+msgstr "Multilingual My Tasks"
+
+msgid "Iniciar Sesión"
+msgstr "Login"
+
+msgid "Cerrar Sesión"
+msgstr "Logout"
+
+msgid "Bienvenido al sistema."
+msgstr "Welcome to the system."
+
+msgid "Proyecto Tecnología Web II"
+msgstr "Web Technology II Project"
+
+# --- LOGIN Y SESIÓN ---
+msgid "Ingrese sus credenciales"
+msgstr "Enter your credentials"
+
+msgid "Correo electrónico"
+msgstr "Email address"
+
+msgid "Contraseña"
+msgstr "Password"
+
+msgid "Entrar"
+msgstr "Sign In"
+
+# --- SECCIÓN PLANTAS ---
+msgid "Listado de Plantas"
+msgstr "Plant List"
+
+msgid "Nombre Común"
+msgstr "Common Name"
+
+msgid "Nombre Científico"
+msgstr "Scientific Name"
+
+msgid "Tipo"
+msgstr "Type"
+
+msgid "Estado"
+msgstr "Status"
+
+msgid "Ficha Técnica Botánica"
+msgstr "Botanical Data Sheet"
+
+msgid "Hábitat Natural"
+msgstr "Natural Habitat"
+
+msgid "Estado de Conservación"
+msgstr "Conservation Status"
+
+msgid "Usos y Propiedades"
+msgstr "Uses and Properties"
+
+# --- SECCIÓN TAREAS ---
+msgid "Nueva Tarea"
+msgstr "New Task"
+
+msgid "Fecha Límite"
+msgstr "Deadline"
+
+msgid "Pendiente"
+msgstr "Pending"
+
+msgid "En Progreso"
+msgstr "In Progress"
+
+msgid "Completada"
+msgstr "Completed"
+
+msgid "Descripciones Multilingües"
+msgstr "Multilingual Descriptions"
+
+# --- SECCIÓN USUARIOS ---
+msgid "Gestión de Usuarios"
+msgstr "User Management"
+
+msgid "Nuevo Usuario"
+msgstr "New User"
+
+msgid "Nombre"
+msgstr "First Name"
+
+msgid "Apellido"
+msgstr "Last Name"
+
+msgid "Teléfono"
+msgstr "Phone"
+
+msgid "Idioma"
+msgstr "Language"
+
+# --- BOTONES Y ACCIONES ---
+msgid "Ver"
+msgstr "View"
+
+msgid "Editar"
+msgstr "Edit"
+
+msgid "Borrar"
+msgstr "Delete"
+
+msgid "Eliminar"
+msgstr "Delete"
+
+msgid "Cancelar"
+msgstr "Cancel"
+
+msgid "Guardar Cambios"
+msgstr "Save Changes"
+
+msgid "Volver al Listado"
+msgstr "Back to List"
+msgstr "Welcome to the system."
+
+msgid "Proyecto Tecnología Web II"
+msgstr "Web Technology II Project"
+
+# --- LOGIN Y SESIÓN ---
+msgid "Ingrese sus credenciales"
+msgstr "Enter your credentials"
+
+msgid "Correo electrónico"
+msgstr "Email address"
+
+msgid "Contraseña"
+msgstr "Password"
+
+msgid "Entrar"
+msgstr "Sign In"
+
+# --- SECCIÓN PLANTAS ---
+msgid "Listado de Plantas"
+msgstr "Plant List"
+
+msgid "Nombre Común"
+msgstr "Common Name"
+
+msgid "Nombre Científico"
+msgstr "Scientific Name"
+
+msgid "Tipo"
+msgstr "Type"
+
+msgid "Estado"
+msgstr "Status"
+
+msgid "Ficha Técnica Botánica"
+msgstr "Botanical Data Sheet"
+
+msgid "Hábitat Natural"
+msgstr "Natural Habitat"
+
+msgid "Estado de Conservación"
+msgstr "Conservation Status"
+
+msgid "Usos y Propiedades"
+msgstr "Uses and Properties"
+
+# --- SECCIÓN TAREAS ---
+msgid "Nueva Tarea"
+msgstr "New Task"
+
+msgid "Fecha Límite"
+msgstr "Deadline"
+
+msgid "Pendiente"
+msgstr "Pending"
+
+msgid "En Progreso"
+msgstr "In Progress"
+
+msgid "Completada"
+msgstr "Completed"
+
+msgid "Descripciones Multilingües"
+msgstr "Multilingual Descriptions"
+
+# --- SECCIÓN USUARIOS ---
+msgid "Gestión de Usuarios"
+msgstr "User Management"
+
+msgid "Nuevo Usuario"
+msgstr "New User"
+
+msgid "Nombre"
+msgstr "First Name"
+
+msgid "Apellido"
+msgstr "Last Name"
+
+msgid "Teléfono"
+msgstr "Phone"
+
+msgid "Idioma"
+msgstr "Language"
+
+# --- BOTONES Y ACCIONES ---
+msgid "Ver"
+msgstr "View"
+
+msgid "Editar"
+msgstr "Edit"
+
+msgid "Borrar"
+msgstr "Delete"
+
+msgid "Eliminar"
+msgstr "Delete"
+
+msgid "Cancelar"
+msgstr "Cancel"
+
+msgid "Guardar Cambios"
+msgstr "Save Changes"
+
+msgid "Volver al Listado"
+msgstr "Back to List"
+
+msgid "Ficha Técnica Botánica"
+msgstr "Botanical Data Sheet"
+
+msgid "Categoría / Tipo"
+msgstr "Category / Type"
+
+msgid "Hábitat Natural"
+msgstr "Natural Habitat"
+
+msgid "Estado de Conservación"
+msgstr "Conservation Status"
+
+msgid "Usos y Propiedades"
+msgstr "Uses and Properties"
+
+msgid "ID de Registro"
+msgstr "Record ID"
+
+msgid "Regresar al listado de plantas"
+msgstr "Back to plant list"
+
+msgid "Editar Planta"
+msgstr "Edit Plant"
+
+msgid "Volver al Catálogo"
+msgstr "Back to Catalog"
+
+msgid "Editar Información de Planta"
+msgstr "Edit Plant Information"
+
+msgid "Ficha Técnica"
+msgstr "Technical Sheet"
+
+msgid "Tipo de Planta"
+msgstr "Plant Type"
+
+msgid "Volver al Listado"
+msgstr "Back to List"
+
+msgid "Cancelar"
+msgstr "Cancel"
+
+msgid "Guardar Cambios"
+msgstr "Save Changes"
+
+msgid "¿Deseas eliminar permanentemente esta planta?"
+msgstr "Do you want to permanently delete this plant?"
+
+msgid "Eliminar Registro"
+msgstr "Delete Record"
+
+msgid "Gestión de Usuarios"
+msgstr "User Management"
+
+msgid "Ver Plantas"
+msgstr "View Plants"
+
+msgid "Nuevo Usuario"
+msgstr "New User"
+
+msgid "Nombre"
+msgstr "First Name"
+
+msgid "Apellido"
+msgstr "Last Name"
+
+msgid "Correo"
+msgstr "Email"
+
+msgid "Teléfono"
+msgstr "Phone"
+
+msgid "Idioma"
+msgstr "Language"
+
+msgid "Español"
+msgstr "Spanish"
+
+msgid "Inglés"
+msgstr "English"
+
+msgid "Detalles del Perfil"
+msgstr "Profile Details"
+
+msgid "Nombre Completo"
+msgstr "Full Name"
+
+msgid "Fecha de Creación"
+msgstr "Created Date"
+
+msgid "Última Modificación"
+msgstr "Last Modified"
+
+msgid "Regresar al listado"
+msgstr "Back to list"
+
+msgid "Editar Usuario"
+msgstr "Edit User"
+
+msgid "Información Personal"
+msgstr "Personal Information"
+
+msgid "Nueva Contraseña (dejar en blanco para no cambiar)"
+msgstr "New Password (leave blank to keep current)"
+
+msgid "Eliminar Usuario"
+msgstr "Delete User"
+
+msgid "Mis Tareas Multilingües"
+msgstr "Multilingual My Tasks"
+
+msgid "Nueva Tarea"
+msgstr "New Task"
+
+msgid "Buscar por título..."
+msgstr "Search by title..."
+
+msgid "Todos los estados"
+msgstr "All statuses"
+
+msgid "Filtrar"
+msgstr "Filter"
+
+msgid "Título"
+msgstr "Title"
+
+msgid "Fecha Límite"
+msgstr "Deadline"
+
+msgid "Pendiente"
+msgstr "Pending"
+
+msgid "En Progreso"
+msgstr "In Progress"
+
+msgid "Completada"
+msgstr "Completed"
+
+msgid "Creada el:"
+msgstr "Created on:"
+
+msgid "Descripciones Multilingües"
+msgstr "Multilingual Descriptions"
+
+msgid "Volver a la Lista"
+msgstr "Back to List"
+
+msgid "Eliminar"
+msgstr "Delete"
+
+msgid "Editar Tarea:"
+msgstr "Edit Task:"
+
+msgid "Editar Descripciones"
+msgstr "Edit Descriptions"
+
+msgid "Actualizar Tarea"
+msgstr "Update Task"
+
+msgid "Português"
+msgstr "Portuguese"
+
+msgid "Français"
+msgstr "French"
+
+msgid "acceso"
+msgstr "access"
+
+msgid "correo electronico"
+msgstr "email"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "nombre comun"
+msgstr "common name"
+
+msgid "nombre cientifico"
+msgstr "scientific name"
+
+msgid "tipo"
+msgstr "type"
+
+msgid "estado"
+msgstr "status"
+
+msgid "rosa"
+msgstr "rose"
+
+msgid "aloe vera"
+msgstr "aloe vera"
+
+msgid "girasol"
+msgstr "sunflower"
+
+msgid "pino pitonero"
+msgstr "stone pine"
+
+msgid "lavanda"
+msgstr "lavender"
+
+msgid "orquidea mariposa"
+msgstr "butterfly orchid"
+
+msgid "tomate"
+msgstr "tomato"
+
+msgid "secuoya gigante"
+msgstr "giant sequoia"
+
+msgid "menta"
+msgstr "mint"
+
+msgid "bambu"
+msgstr "bamboo"
+
+msgid "preocupación menor"
+msgstr "least concern"
+
+msgid "vulnerable"
+msgstr "vulnerable"
+
+msgid "en peligro"
+msgstr "endangered"
+
+msgid "arbusto"
+msgstr "shrub"
+
+msgid "suculentas"
+msgstr "succulents"
+
+msgid "hierba anual"
+msgstr "annual herb"
+
+msgid "arbol"
+msgstr "tree"
+
+msgid "arbusto perenne"
+msgstr "evergreen shrub"
+
+msgid "orquidea"
+msgstr "orchid"
+
+msgid "graminea"
+msgstr "grass"
+
+msgid "idioma"
+msgstr "language"
+
+msgid "telefono"
+msgstr "phone"
+
+msgid "pendiente"
+msgstr "pending"
+
+msgid "lista de"
+msgstr "list of"
+
+msgid "santa cruz"
+msgstr "Santa Cruz"
+
+msgid "bolivia"
+msgstr "Bolivia"

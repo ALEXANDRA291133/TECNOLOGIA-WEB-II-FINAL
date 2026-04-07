@@ -1,0 +1,329 @@
+# Russian translations - Русский
+# Web Technology II Project
+
+msgid "Plantas"
+msgstr "Растения"
+
+msgid "Mis Tareas"
+msgstr "Мои задачи"
+
+msgid "Iniciar Sesión"
+msgstr "Вход"
+
+msgid "Cerrar Sesión"
+msgstr "Выход"
+
+msgid "Bienvenido al sistema."
+msgstr "Добро пожаловать в систему."
+
+msgid "Proyecto Tecnología Web II"
+msgstr "Проект Веб-технологии II"
+
+msgid "Ingrese sus credenciales"
+msgstr "Введите ваши учетные данные"
+
+msgid "Correo electrónico"
+msgstr "Адрес электронной почты"
+
+msgid "Contraseña"
+msgstr "Пароль"
+
+msgid "Entrar"
+msgstr "Войти"
+
+msgid "Gestión de Plantas"
+msgstr "Управление растениями"
+
+msgid "Listado de Plantas"
+msgstr "Список растений"
+
+msgid "Gestionar Usuarios"
+msgstr "Управление пользователями"
+
+msgid "Nombre Común"
+msgstr "Общее название"
+
+msgid "Nombre Científico"
+msgstr "Научное название"
+
+msgid "Tipo"
+msgstr "Тип"
+
+msgid "Estado"
+msgstr "Статус"
+
+msgid "Acciones"
+msgstr "Действия"
+
+msgid "Ver"
+msgstr "Просмотр"
+
+msgid "Editar"
+msgstr "Редактировать"
+
+msgid "Borrar"
+msgstr "Удалить"
+
+msgid "Ficha Técnica Botánica"
+msgstr "Ботаническая техническая карта"
+
+msgid "Categoría / Tipo"
+msgstr "Категория / Тип"
+
+msgid "Hábitat Natural"
+msgstr "Естественная среда обитания"
+
+msgid "Estado de Conservación"
+msgstr "Природоохранный статус"
+
+msgid "Usos y Propiedades"
+msgstr "Применение и свойства"
+
+msgid "ID de Registro"
+msgstr "ID записи"
+
+msgid "Regresar al listado de plantas"
+msgstr "Вернуться к списку растений"
+
+msgid "Editar Planta"
+msgstr "Редактировать растение"
+
+msgid "Volver al Catálogo"
+msgstr "Вернуться к каталогу"
+
+msgid "Editar Información de Planta"
+msgstr "Редактировать информацию о растении"
+
+msgid "Ficha Técnica"
+msgstr "Техническая карта"
+
+msgid "Tipo de Planta"
+msgstr "Тип растения"
+
+msgid "Volver al Listado"
+msgstr "Вернуться к списку"
+
+msgid "Cancelar"
+msgstr "Отмена"
+
+msgid "Guardar Cambios"
+msgstr "Сохранить изменения"
+
+msgid "¿Deseas eliminar permanentemente esta planta?"
+msgstr "Вы хотите окончательно удалить это растение?"
+
+msgid "Eliminar Registro"
+msgstr "Удалить запись"
+
+msgid "Gestión de Usuarios"
+msgstr "Управление пользователями"
+
+msgid "Ver Plantas"
+msgstr "Просмотр растений"
+
+msgid "Nuevo Usuario"
+msgstr "Новый пользователь"
+
+msgid "Nombre"
+msgstr "Имя"
+
+msgid "Apellido"
+msgstr "Фамилия"
+
+msgid "Correo"
+msgstr "Электронная почта"
+
+msgid "Teléfono"
+msgstr "Телефон"
+
+msgid "Idioma"
+msgstr "Язык"
+
+msgid "Español"
+msgstr "Испанский"
+
+msgid "Inglés"
+msgstr "Английский"
+
+msgid "Detalles del Perfil"
+msgstr "Детали профиля"
+
+msgid "Nombre Completo"
+msgstr "Полное имя"
+
+msgid "Fecha de Creación"
+msgstr "Дата создания"
+
+msgid "Última Modificación"
+msgstr "Последнее изменение"
+
+msgid "Regresar al listado"
+msgstr "Вернуться к списку"
+
+msgid "Editar Usuario"
+msgstr "Редактировать пользователя"
+
+msgid "Información Personal"
+msgstr "Личная информация"
+
+msgid "Nueva Contraseña (dejar en blanco para no cambiar)"
+msgstr "Новый пароль (оставьте пустым, чтобы не менять)"
+
+msgid "Eliminar Usuario"
+msgstr "Удалить пользователя"
+
+msgid "Mis Tareas Multilingües"
+msgstr "Мои многоязычные задачи"
+
+msgid "Nueva Tarea"
+msgstr "Новая задача"
+
+msgid "Buscar por título..."
+msgstr "Поиск по названию..."
+
+msgid "Todos los estados"
+msgstr "Все статусы"
+
+msgid "Filtrar"
+msgstr "Фильтр"
+
+msgid "Título"
+msgstr "Название"
+
+msgid "Fecha Límite"
+msgstr "Крайний срок"
+
+msgid "Pendiente"
+msgstr "Ожидает"
+
+msgid "En Progreso"
+msgstr "В процессе"
+
+msgid "Completada"
+msgstr "Завершена"
+
+msgid "Creada el:"
+msgstr "Создана:"
+
+msgid "Descripciones Multilingües"
+msgstr "Многоязычные описания"
+
+msgid "Volver a la Lista"
+msgstr "Вернуться к списку"
+
+msgid "Eliminar"
+msgstr "Удалить"
+
+msgid "Editar Tarea:"
+msgstr "Редактировать задачу:"
+
+msgid "Editar Descripciones"
+msgstr "Редактировать описания"
+
+msgid "Actualizar Tarea"
+msgstr "Обновить задачу"
+
+msgid "Português"
+msgstr "Португальский"
+
+msgid "Français"
+msgstr "Французский"
+
+msgid "acceso"
+msgstr "доступ"
+
+msgid "correo electronico"
+msgstr "электронная почта"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "nombre comun"
+msgstr "общее название"
+
+msgid "nombre cientifico"
+msgstr "научное название"
+
+msgid "tipo"
+msgstr "тип"
+
+msgid "estado"
+msgstr "статус"
+
+msgid "rosa"
+msgstr "роза"
+
+msgid "aloe vera"
+msgstr "алоэ вера"
+
+msgid "girasol"
+msgstr "подсолнечник"
+
+msgid "pino pitonero"
+msgstr "сосна пиния"
+
+msgid "lavanda"
+msgstr "лаванда"
+
+msgid "orquidea mariposa"
+msgstr "орхидея-бабочка"
+
+msgid "tomate"
+msgstr "томат"
+
+msgid "secuoya gigante"
+msgstr "гигантская секвойя"
+
+msgid "menta"
+msgstr "мята"
+
+msgid "bambu"
+msgstr "бамбук"
+
+msgid "preocupación menor"
+msgstr "вызывающий наименьшие опасения"
+
+msgid "vulnerable"
+msgstr "уязвимый"
+
+msgid "en peligro"
+msgstr "находящийся под угрозой"
+
+msgid "arbusto"
+msgstr "кустарник"
+
+msgid "suculentas"
+msgstr "суккуленты"
+
+msgid "hierba anual"
+msgstr "однолетняя трава"
+
+msgid "arbol"
+msgstr "дерево"
+
+msgid "arbusto perenne"
+msgstr "вечнозелёный кустарник"
+
+msgid "orquidea"
+msgstr "орхидея"
+
+msgid "graminea"
+msgstr "злак"
+
+msgid "idioma"
+msgstr "язык"
+
+msgid "telefono"
+msgstr "телефон"
+
+msgid "pendiente"
+msgstr "в ожидании"
+
+msgid "lista de"
+msgstr "список"
+
+msgid "santa cruz"
+msgstr "Санта-Крус"
+
+msgid "bolivia"
+msgstr "Боливия"

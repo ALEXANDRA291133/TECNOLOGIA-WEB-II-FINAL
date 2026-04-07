@@ -1,0 +1,329 @@
+# Japanese translations - 日本語
+# Web Technology II Project
+
+msgid "Plantas"
+msgstr "植物"
+
+msgid "Mis Tareas"
+msgstr "マイタスク"
+
+msgid "Iniciar Sesión"
+msgstr "ログイン"
+
+msgid "Cerrar Sesión"
+msgstr "ログアウト"
+
+msgid "Bienvenido al sistema."
+msgstr "システムへようこそ。"
+
+msgid "Proyecto Tecnología Web II"
+msgstr "ウェブテクノロジー II プロジェクト"
+
+msgid "Ingrese sus credenciales"
+msgstr "認証情報を入力してください"
+
+msgid "Correo electrónico"
+msgstr "メールアドレス"
+
+msgid "Contraseña"
+msgstr "パスワード"
+
+msgid "Entrar"
+msgstr "サインイン"
+
+msgid "Gestión de Plantas"
+msgstr "植物管理"
+
+msgid "Listado de Plantas"
+msgstr "植物リスト"
+
+msgid "Gestionar Usuarios"
+msgstr "ユーザー管理"
+
+msgid "Nombre Común"
+msgstr "一般名"
+
+msgid "Nombre Científico"
+msgstr "学名"
+
+msgid "Tipo"
+msgstr "種類"
+
+msgid "Estado"
+msgstr "ステータス"
+
+msgid "Acciones"
+msgstr "アクション"
+
+msgid "Ver"
+msgstr "表示"
+
+msgid "Editar"
+msgstr "編集"
+
+msgid "Borrar"
+msgstr "削除"
+
+msgid "Ficha Técnica Botánica"
+msgstr "植物技術データシート"
+
+msgid "Categoría / Tipo"
+msgstr "カテゴリー / 種類"
+
+msgid "Hábitat Natural"
+msgstr "自然生息地"
+
+msgid "Estado de Conservación"
+msgstr "保全状況"
+
+msgid "Usos y Propiedades"
+msgstr "用途と特性"
+
+msgid "ID de Registro"
+msgstr "レコードID"
+
+msgid "Regresar al listado de plantas"
+msgstr "植物リストに戻る"
+
+msgid "Editar Planta"
+msgstr "植物を編集"
+
+msgid "Volver al Catálogo"
+msgstr "カタログに戻る"
+
+msgid "Editar Información de Planta"
+msgstr "植物情報を編集"
+
+msgid "Ficha Técnica"
+msgstr "技術データシート"
+
+msgid "Tipo de Planta"
+msgstr "植物の種類"
+
+msgid "Volver al Listado"
+msgstr "リストに戻る"
+
+msgid "Cancelar"
+msgstr "キャンセル"
+
+msgid "Guardar Cambios"
+msgstr "変更を保存"
+
+msgid "¿Deseas eliminar permanentemente esta planta?"
+msgstr "この植物を完全に削除しますか？"
+
+msgid "Eliminar Registro"
+msgstr "レコードを削除"
+
+msgid "Gestión de Usuarios"
+msgstr "ユーザー管理"
+
+msgid "Ver Plantas"
+msgstr "植物を表示"
+
+msgid "Nuevo Usuario"
+msgstr "新規ユーザー"
+
+msgid "Nombre"
+msgstr "名"
+
+msgid "Apellido"
+msgstr "姓"
+
+msgid "Correo"
+msgstr "メール"
+
+msgid "Teléfono"
+msgstr "電話"
+
+msgid "Idioma"
+msgstr "言語"
+
+msgid "Español"
+msgstr "スペイン語"
+
+msgid "Inglés"
+msgstr "英語"
+
+msgid "Detalles del Perfil"
+msgstr "プロフィール詳細"
+
+msgid "Nombre Completo"
+msgstr "フルネーム"
+
+msgid "Fecha de Creación"
+msgstr "作成日"
+
+msgid "Última Modificación"
+msgstr "最終更新日"
+
+msgid "Regresar al listado"
+msgstr "リストに戻る"
+
+msgid "Editar Usuario"
+msgstr "ユーザーを編集"
+
+msgid "Información Personal"
+msgstr "個人情報"
+
+msgid "Nueva Contraseña (dejar en blanco para no cambiar)"
+msgstr "新しいパスワード（変更しない場合は空白のまま）"
+
+msgid "Eliminar Usuario"
+msgstr "ユーザーを削除"
+
+msgid "Mis Tareas Multilingües"
+msgstr "多言語マイタスク"
+
+msgid "Nueva Tarea"
+msgstr "新規タスク"
+
+msgid "Buscar por título..."
+msgstr "タイトルで検索..."
+
+msgid "Todos los estados"
+msgstr "すべてのステータス"
+
+msgid "Filtrar"
+msgstr "フィルター"
+
+msgid "Título"
+msgstr "タイトル"
+
+msgid "Fecha Límite"
+msgstr "期限"
+
+msgid "Pendiente"
+msgstr "保留中"
+
+msgid "En Progreso"
+msgstr "進行中"
+
+msgid "Completada"
+msgstr "完了"
+
+msgid "Creada el:"
+msgstr "作成日:"
+
+msgid "Descripciones Multilingües"
+msgstr "多言語説明"
+
+msgid "Volver a la Lista"
+msgstr "リストに戻る"
+
+msgid "Eliminar"
+msgstr "削除"
+
+msgid "Editar Tarea:"
+msgstr "タスクを編集:"
+
+msgid "Editar Descripciones"
+msgstr "説明を編集"
+
+msgid "Actualizar Tarea"
+msgstr "タスクを更新"
+
+msgid "Português"
+msgstr "ポルトガル語"
+
+msgid "Français"
+msgstr "フランス語"
+
+msgid "acceso"
+msgstr "アクセス"
+
+msgid "correo electronico"
+msgstr "メールアドレス"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "nombre comun"
+msgstr "一般名"
+
+msgid "nombre cientifico"
+msgstr "学名"
+
+msgid "tipo"
+msgstr "種類"
+
+msgid "estado"
+msgstr "状態"
+
+msgid "rosa"
+msgstr "バラ"
+
+msgid "aloe vera"
+msgstr "アロエベラ"
+
+msgid "girasol"
+msgstr "ヒマワリ"
+
+msgid "pino pitonero"
+msgstr "ピニャ"
+
+msgid "lavanda"
+msgstr "ラベンダー"
+
+msgid "orquidea mariposa"
+msgstr "コチョウラン"
+
+msgid "tomate"
+msgstr "トマト"
+
+msgid "secuoya gigante"
+msgstr "セコイア"
+
+msgid "menta"
+msgstr "ミント"
+
+msgid "bambu"
+msgstr "竹"
+
+msgid "preocupación menor"
+msgstr "低危険種"
+
+msgid "vulnerable"
+msgstr "危急種"
+
+msgid "en peligro"
+msgstr "絶滅危惧種"
+
+msgid "arbusto"
+msgstr "低木"
+
+msgid "suculentas"
+msgstr "多肉植物"
+
+msgid "hierba anual"
+msgstr "一年草"
+
+msgid "arbol"
+msgstr "木"
+
+msgid "arbusto perenne"
+msgstr "常緑低木"
+
+msgid "orquidea"
+msgstr "ラン"
+
+msgid "graminea"
+msgstr "イネ科"
+
+msgid "idioma"
+msgstr "言語"
+
+msgid "telefono"
+msgstr "電話"
+
+msgid "pendiente"
+msgstr "保留中"
+
+msgid "lista de"
+msgstr "リスト"
+
+msgid "santa cruz"
+msgstr "サンタクルス"
+
+msgid "bolivia"
+msgstr "ボリビア"

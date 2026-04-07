@@ -1,0 +1,342 @@
+# French (France) translations - Français (France)
+# Web Technology II Project
+
+msgid "Plantas"
+msgstr "Plantes"
+
+msgid "Mis Tareas"
+msgstr "Mes Tâches"
+
+msgid "Iniciar Sesión"
+msgstr "Connexion"
+
+msgid "Cerrar Sesión"
+msgstr "Déconnexion"
+
+msgid "Bienvenido al sistema."
+msgstr "Bienvenue dans le système."
+
+msgid "Proyecto Tecnología Web II"
+msgstr "Projet Technologie Web II"
+
+msgid "Ingrese sus credenciales"
+msgstr "Entrez vos identifiants"
+
+msgid "Correo electrónico"
+msgstr "Adresse e-mail"
+
+msgid "Contraseña"
+msgstr "Mot de passe"
+
+msgid "Entrar"
+msgstr "Se connecter"
+
+msgid "Gestión de Plantas"
+msgstr "Gestion des Plantes"
+
+msgid "Listado de Plantas"
+msgstr "Liste des Plantes"
+
+msgid "Gestionar Usuarios"
+msgstr "Gérer les Utilisateurs"
+
+msgid "Nombre Común"
+msgstr "Nom Commun"
+
+msgid "Nombre Científico"
+msgstr "Nom Scientifique"
+
+msgid "Tipo"
+msgstr "Type"
+
+msgid "Estado"
+msgstr "Statut"
+
+msgid "Acciones"
+msgstr "Actions"
+
+msgid "Ver"
+msgstr "Voir"
+
+msgid "Editar"
+msgstr "Modifier"
+
+msgid "Borrar"
+msgstr "Supprimer"
+
+msgid "Ficha Técnica Botánica"
+msgstr "Fiche Technique Botanique"
+
+msgid "Categoría / Tipo"
+msgstr "Catégorie / Type"
+
+msgid "Hábitat Natural"
+msgstr "Habitat Naturel"
+
+msgid "Estado de Conservación"
+msgstr "Statut de Conservation"
+
+msgid "Usos y Propiedades"
+msgstr "Utilisations et Propriétés"
+
+msgid "ID de Registro"
+msgstr "ID d'Enregistrement"
+
+msgid "Regresar al listado de plantas"
+msgstr "Retour à la liste des plantes"
+
+msgid "Editar Planta"
+msgstr "Modifier la Plante"
+
+msgid "Volver al Catálogo"
+msgstr "Retour au Catalogue"
+
+msgid "Editar Información de Planta"
+msgstr "Modifier les Informations de la Plante"
+
+msgid "Ficha Técnica"
+msgstr "Fiche Technique"
+
+msgid "Tipo de Planta"
+msgstr "Type de Plante"
+
+msgid "Volver al Listado"
+msgstr "Retour à la Liste"
+
+msgid "Cancelar"
+msgstr "Annuler"
+
+msgid "Guardar Cambios"
+msgstr "Enregistrer les Modifications"
+
+msgid "¿Deseas eliminar permanentemente esta planta?"
+msgstr "Voulez-vous supprimer définitivement cette plante ?"
+
+msgid "Eliminar Registro"
+msgstr "Supprimer l'Enregistrement"
+
+msgid "Gestión de Usuarios"
+msgstr "Gestion des Utilisateurs"
+
+msgid "Ver Plantas"
+msgstr "Voir les Plantes"
+
+msgid "Nuevo Usuario"
+msgstr "Nouvel Utilisateur"
+
+msgid "Nombre"
+msgstr "Prénom"
+
+msgid "Apellido"
+msgstr "Nom"
+
+msgid "Correo"
+msgstr "E-mail"
+
+msgid "Teléfono"
+msgstr "Téléphone"
+
+msgid "Idioma"
+msgstr "Langue"
+
+msgid "Español"
+msgstr "Espagnol"
+
+msgid "Inglés"
+msgstr "Anglais"
+
+msgid "Detalles del Perfil"
+msgstr "Détails du Profil"
+
+msgid "Nombre Completo"
+msgstr "Nom Complet"
+
+msgid "Fecha de Creación"
+msgstr "Date de Création"
+
+msgid "Última Modificación"
+msgstr "Dernière Modification"
+msgid "Plantas"
+msgstr "Plantes"
+
+msgid "Mis Tareas"
+msgstr "Mes Tâches"
+
+msgid "Iniciar Sesión"
+msgstr "Connexion"
+
+msgid "Listado de Plantas"
+msgstr "Liste des Plantes"
+
+msgid "Gestión de Usuarios"
+msgstr "Gestion des Utilisateurs"
+msgid "Regresar al listado"
+msgstr "Retour à la liste"
+
+msgid "Editar Usuario"
+msgstr "Modifier l'Utilisateur"
+
+msgid "Información Personal"
+msgstr "Informations Personnelles"
+
+msgid "Nueva Contraseña (dejar en blanco para no cambiar)"
+msgstr "Nouveau Mot de Passe (laisser vide pour ne pas changer)"
+
+msgid "Eliminar Usuario"
+msgstr "Supprimer l'Utilisateur"
+
+msgid "Mis Tareas Multilingües"
+msgstr "Mes Tâches Multilingues"
+
+msgid "Nueva Tarea"
+msgstr "Nouvelle Tâche"
+
+msgid "Buscar por título..."
+msgstr "Rechercher par titre..."
+
+msgid "Todos los estados"
+msgstr "Tous les statuts"
+
+msgid "Filtrar"
+msgstr "Filtrer"
+
+msgid "Título"
+msgstr "Titre"
+
+msgid "Fecha Límite"
+msgstr "Date Limite"
+
+msgid "Pendiente"
+msgstr "En attente"
+
+msgid "En Progreso"
+msgstr "En cours"
+
+msgid "Completada"
+msgstr "Terminée"
+
+msgid "Creada el:"
+msgstr "Créée le :"
+
+msgid "Descripciones Multilingües"
+msgstr "Descriptions Multilingues"
+
+msgid "Volver a la Lista"
+msgstr "Retour à la Liste"
+
+msgid "Eliminar"
+msgstr "Supprimer"
+
+msgid "Editar Tarea:"
+msgstr "Modifier la Tâche :"
+
+msgid "Editar Descripciones"
+msgstr "Modifier les Descriptions"
+
+msgid "Actualizar Tarea"
+msgstr "Mettre à Jour la Tâche"
+
+msgid "Português"
+msgstr "Portugais"
+
+msgid "Français"
+msgstr "Français"
+
+msgid "acceso"
+msgstr "accès"
+
+msgid "correo electronico"
+msgstr "e-mail"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "nombre comun"
+msgstr "nom commun"
+
+msgid "nombre cientifico"
+msgstr "nom scientifique"
+
+msgid "tipo"
+msgstr "type"
+
+msgid "estado"
+msgstr "statut"
+
+msgid "rosa"
+msgstr "rose"
+
+msgid "aloe vera"
+msgstr "aloe vera"
+
+msgid "girasol"
+msgstr "tournesol"
+
+msgid "pino pitonero"
+msgstr "pin parasol"
+
+msgid "lavanda"
+msgstr "lavande"
+
+msgid "orquidea mariposa"
+msgstr "orchidée papillon"
+
+msgid "tomate"
+msgstr "tomate"
+
+msgid "secuoya gigante"
+msgstr "séquoia géant"
+
+msgid "menta"
+msgstr "menthe"
+
+msgid "bambu"
+msgstr "bambou"
+
+msgid "preocupación menor"
+msgstr "préoccupation mineure"
+
+msgid "vulnerable"
+msgstr "vulnérable"
+
+msgid "en peligro"
+msgstr "en danger"
+
+msgid "arbusto"
+msgstr "arbuste"
+
+msgid "suculentas"
+msgstr "succulentes"
+
+msgid "hierba anual"
+msgstr "herbe annuelle"
+
+msgid "arbol"
+msgstr "arbre"
+
+msgid "arbusto perenne"
+msgstr "arbuste persistant"
+
+msgid "orquidea"
+msgstr "orchidée"
+
+msgid "graminea"
+msgstr "graminée"
+
+msgid "idioma"
+msgstr "langue"
+
+msgid "telefono"
+msgstr "téléphone"
+
+msgid "pendiente"
+msgstr "en attente"
+
+msgid "lista de"
+msgstr "liste de"
+
+msgid "santa cruz"
+msgstr "Santa Cruz"
+
+msgid "bolivia"
+msgstr "Bolivie"

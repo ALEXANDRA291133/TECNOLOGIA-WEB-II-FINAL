@@ -1,0 +1,329 @@
+# Portuguese (Brazil) translations - Português (Brasil)
+# Web Technology II Project
+
+msgid "Plantas"
+msgstr "Plantas"
+
+msgid "Mis Tareas"
+msgstr "Minhas Tarefas"
+
+msgid "Iniciar Sesión"
+msgstr "Login"
+
+msgid "Cerrar Sesión"
+msgstr "Sair"
+
+msgid "Bienvenido al sistema."
+msgstr "Bem-vindo ao sistema."
+
+msgid "Proyecto Tecnología Web II"
+msgstr "Projeto Tecnologia Web II"
+
+msgid "Ingrese sus credenciales"
+msgstr "Digite suas credenciais"
+
+msgid "Correo electrónico"
+msgstr "Endereço de e-mail"
+
+msgid "Contraseña"
+msgstr "Senha"
+
+msgid "Entrar"
+msgstr "Entrar"
+
+msgid "Gestión de Plantas"
+msgstr "Gestão de Plantas"
+
+msgid "Listado de Plantas"
+msgstr "Lista de Plantas"
+
+msgid "Gestionar Usuarios"
+msgstr "Gerenciar Usuários"
+
+msgid "Nombre Común"
+msgstr "Nome Comum"
+
+msgid "Nombre Científico"
+msgstr "Nome Científico"
+
+msgid "Tipo"
+msgstr "Tipo"
+
+msgid "Estado"
+msgstr "Status"
+
+msgid "Acciones"
+msgstr "Ações"
+
+msgid "Ver"
+msgstr "Visualizar"
+
+msgid "Editar"
+msgstr "Editar"
+
+msgid "Borrar"
+msgstr "Excluir"
+
+msgid "Ficha Técnica Botánica"
+msgstr "Ficha Técnica Botânica"
+
+msgid "Categoría / Tipo"
+msgstr "Categoria / Tipo"
+
+msgid "Hábitat Natural"
+msgstr "Habitat Natural"
+
+msgid "Estado de Conservación"
+msgstr "Estado de Conservação"
+
+msgid "Usos y Propiedades"
+msgstr "Usos e Propriedades"
+
+msgid "ID de Registro"
+msgstr "ID do Registro"
+
+msgid "Regresar al listado de plantas"
+msgstr "Voltar à lista de plantas"
+
+msgid "Editar Planta"
+msgstr "Editar Planta"
+
+msgid "Volver al Catálogo"
+msgstr "Voltar ao Catálogo"
+
+msgid "Editar Información de Planta"
+msgstr "Editar Informações da Planta"
+
+msgid "Ficha Técnica"
+msgstr "Ficha Técnica"
+
+msgid "Tipo de Planta"
+msgstr "Tipo de Planta"
+
+msgid "Volver al Listado"
+msgstr "Voltar à Lista"
+
+msgid "Cancelar"
+msgstr "Cancelar"
+
+msgid "Guardar Cambios"
+msgstr "Salvar Alterações"
+
+msgid "¿Deseas eliminar permanentemente esta planta?"
+msgstr "Deseja excluir permanentemente esta planta?"
+
+msgid "Eliminar Registro"
+msgstr "Excluir Registro"
+
+msgid "Gestión de Usuarios"
+msgstr "Gerenciamento de Usuários"
+
+msgid "Ver Plantas"
+msgstr "Ver Plantas"
+
+msgid "Nuevo Usuario"
+msgstr "Novo Usuário"
+
+msgid "Nombre"
+msgstr "Nome"
+
+msgid "Apellido"
+msgstr "Sobrenome"
+
+msgid "Correo"
+msgstr "E-mail"
+
+msgid "Teléfono"
+msgstr "Telefone"
+
+msgid "Idioma"
+msgstr "Idioma"
+
+msgid "Español"
+msgstr "Espanhol"
+
+msgid "Inglés"
+msgstr "Inglês"
+
+msgid "Detalles del Perfil"
+msgstr "Detalhes do Perfil"
+
+msgid "Nombre Completo"
+msgstr "Nome Completo"
+
+msgid "Fecha de Creación"
+msgstr "Data de Criação"
+
+msgid "Última Modificación"
+msgstr "Última Modificação"
+
+msgid "Regresar al listado"
+msgstr "Voltar à lista"
+
+msgid "Editar Usuario"
+msgstr "Editar Usuário"
+
+msgid "Información Personal"
+msgstr "Informações Pessoais"
+
+msgid "Nueva Contraseña (dejar en blanco para no cambiar)"
+msgstr "Nova Senha (deixe em branco para manter a atual)"
+
+msgid "Eliminar Usuario"
+msgstr "Excluir Usuário"
+
+msgid "Mis Tareas Multilingües"
+msgstr "Minhas Tarefas Multilíngues"
+
+msgid "Nueva Tarea"
+msgstr "Nova Tarefa"
+
+msgid "Buscar por título..."
+msgstr "Buscar por título..."
+
+msgid "Todos los estados"
+msgstr "Todos os status"
+
+msgid "Filtrar"
+msgstr "Filtrar"
+
+msgid "Título"
+msgstr "Título"
+
+msgid "Fecha Límite"
+msgstr "Data Limite"
+
+msgid "Pendiente"
+msgstr "Pendente"
+
+msgid "En Progreso"
+msgstr "Em Andamento"
+
+msgid "Completada"
+msgstr "Concluída"
+
+msgid "Creada el:"
+msgstr "Criada em:"
+
+msgid "Descripciones Multilingües"
+msgstr "Descrições Multilíngues"
+
+msgid "Volver a la Lista"
+msgstr "Voltar à Lista"
+
+msgid "Eliminar"
+msgstr "Excluir"
+
+msgid "Editar Tarea:"
+msgstr "Editar Tarefa:"
+
+msgid "Editar Descripciones"
+msgstr "Editar Descrições"
+
+msgid "Actualizar Tarea"
+msgstr "Atualizar Tarefa"
+
+msgid "Português"
+msgstr "Português"
+
+msgid "Français"
+msgstr "Francês"
+
+msgid "acceso"
+msgstr "acesso"
+
+msgid "correo electronico"
+msgstr "e-mail"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "nombre comun"
+msgstr "nome comum"
+
+msgid "nombre cientifico"
+msgstr "nome científico"
+
+msgid "tipo"
+msgstr "tipo"
+
+msgid "estado"
+msgstr "status"
+
+msgid "rosa"
+msgstr "rosa"
+
+msgid "aloe vera"
+msgstr "aloe vera"
+
+msgid "girasol"
+msgstr "girassol"
+
+msgid "pino pitonero"
+msgstr "pinheiro manso"
+
+msgid "lavanda"
+msgstr "lavanda"
+
+msgid "orquidea mariposa"
+msgstr "orquídea borboleta"
+
+msgid "tomate"
+msgstr "tomate"
+
+msgid "secuoya gigante"
+msgstr "sequoia gigante"
+
+msgid "menta"
+msgstr "hortelã"
+
+msgid "bambu"
+msgstr "bambu"
+
+msgid "preocupación menor"
+msgstr "pouco preocupante"
+
+msgid "vulnerable"
+msgstr "vulnerável"
+
+msgid "en peligro"
+msgstr "em perigo"
+
+msgid "arbusto"
+msgstr "arbusto"
+
+msgid "suculentas"
+msgstr "suculentas"
+
+msgid "hierba anual"
+msgstr "erva anual"
+
+msgid "arbol"
+msgstr "árvore"
+
+msgid "arbusto perenne"
+msgstr "arbusto perene"
+
+msgid "orquidea"
+msgstr "orquídea"
+
+msgid "graminea"
+msgstr "gramínea"
+
+msgid "idioma"
+msgstr "idioma"
+
+msgid "telefono"
+msgstr "telefone"
+
+msgid "pendiente"
+msgstr "pendente"
+
+msgid "lista de"
+msgstr "lista de"
+
+msgid "santa cruz"
+msgstr "Santa Cruz"
+
+msgid "bolivia"
+msgstr "Bolívia"

@@ -1,0 +1,329 @@
+# German (Germany) translations - Deutsch (Deutschland)
+# Web Technology II Project
+
+msgid "Plantas"
+msgstr "Pflanzen"
+
+msgid "Mis Tareas"
+msgstr "Meine Aufgaben"
+
+msgid "Iniciar Sesión"
+msgstr "Anmelden"
+
+msgid "Cerrar Sesión"
+msgstr "Abmelden"
+
+msgid "Bienvenido al sistema."
+msgstr "Willkommen im System."
+
+msgid "Proyecto Tecnología Web II"
+msgstr "Webtechnologie II Projekt"
+
+msgid "Ingrese sus credenciales"
+msgstr "Geben Sie Ihre Anmeldedaten ein"
+
+msgid "Correo electrónico"
+msgstr "E-Mail-Adresse"
+
+msgid "Contraseña"
+msgstr "Passwort"
+
+msgid "Entrar"
+msgstr "Anmelden"
+
+msgid "Gestión de Plantas"
+msgstr "Pflanzenverwaltung"
+
+msgid "Listado de Plantas"
+msgstr "Pflanzenliste"
+
+msgid "Gestionar Usuarios"
+msgstr "Benutzer verwalten"
+
+msgid "Nombre Común"
+msgstr "Gebräuchlicher Name"
+
+msgid "Nombre Científico"
+msgstr "Wissenschaftlicher Name"
+
+msgid "Tipo"
+msgstr "Typ"
+
+msgid "Estado"
+msgstr "Status"
+
+msgid "Acciones"
+msgstr "Aktionen"
+
+msgid "Ver"
+msgstr "Ansehen"
+
+msgid "Editar"
+msgstr "Bearbeiten"
+
+msgid "Borrar"
+msgstr "Löschen"
+
+msgid "Ficha Técnica Botánica"
+msgstr "Botanisches Datenblatt"
+
+msgid "Categoría / Tipo"
+msgstr "Kategorie / Typ"
+
+msgid "Hábitat Natural"
+msgstr "Natürlicher Lebensraum"
+
+msgid "Estado de Conservación"
+msgstr "Erhaltungszustand"
+
+msgid "Usos y Propiedades"
+msgstr "Verwendungen und Eigenschaften"
+
+msgid "ID de Registro"
+msgstr "Datensatz-ID"
+
+msgid "Regresar al listado de plantas"
+msgstr "Zurück zur Pflanzenliste"
+
+msgid "Editar Planta"
+msgstr "Pflanze bearbeiten"
+
+msgid "Volver al Catálogo"
+msgstr "Zurück zum Katalog"
+
+msgid "Editar Información de Planta"
+msgstr "Pflanzeninformationen bearbeiten"
+
+msgid "Ficha Técnica"
+msgstr "Technisches Datenblatt"
+
+msgid "Tipo de Planta"
+msgstr "Pflanzentyp"
+
+msgid "Volver al Listado"
+msgstr "Zurück zur Liste"
+
+msgid "Cancelar"
+msgstr "Abbrechen"
+
+msgid "Guardar Cambios"
+msgstr "Änderungen speichern"
+
+msgid "¿Deseas eliminar permanentemente esta planta?"
+msgstr "Möchten Sie diese Pflanze dauerhaft löschen?"
+
+msgid "Eliminar Registro"
+msgstr "Datensatz löschen"
+
+msgid "Gestión de Usuarios"
+msgstr "Benutzerverwaltung"
+
+msgid "Ver Plantas"
+msgstr "Pflanzen ansehen"
+
+msgid "Nuevo Usuario"
+msgstr "Neuer Benutzer"
+
+msgid "Nombre"
+msgstr "Vorname"
+
+msgid "Apellido"
+msgstr "Nachname"
+
+msgid "Correo"
+msgstr "E-Mail"
+
+msgid "Teléfono"
+msgstr "Telefon"
+
+msgid "Idioma"
+msgstr "Sprache"
+
+msgid "Español"
+msgstr "Spanisch"
+
+msgid "Inglés"
+msgstr "Englisch"
+
+msgid "Detalles del Perfil"
+msgstr "Profildetails"
+
+msgid "Nombre Completo"
+msgstr "Vollständiger Name"
+
+msgid "Fecha de Creación"
+msgstr "Erstellungsdatum"
+
+msgid "Última Modificación"
+msgstr "Letzte Änderung"
+
+msgid "Regresar al listado"
+msgstr "Zurück zur Liste"
+
+msgid "Editar Usuario"
+msgstr "Benutzer bearbeiten"
+
+msgid "Información Personal"
+msgstr "Persönliche Informationen"
+
+msgid "Nueva Contraseña (dejar en blanco para no cambiar)"
+msgstr "Neues Passwort (leer lassen, um aktuelles zu behalten)"
+
+msgid "Eliminar Usuario"
+msgstr "Benutzer löschen"
+
+msgid "Mis Tareas Multilingües"
+msgstr "Meine mehrsprachigen Aufgaben"
+
+msgid "Nueva Tarea"
+msgstr "Neue Aufgabe"
+
+msgid "Buscar por título..."
+msgstr "Nach Titel suchen..."
+
+msgid "Todos los estados"
+msgstr "Alle Status"
+
+msgid "Filtrar"
+msgstr "Filtern"
+
+msgid "Título"
+msgstr "Titel"
+
+msgid "Fecha Límite"
+msgstr "Frist"
+
+msgid "Pendiente"
+msgstr "Ausstehend"
+
+msgid "En Progreso"
+msgstr "In Bearbeitung"
+
+msgid "Completada"
+msgstr "Abgeschlossen"
+
+msgid "Creada el:"
+msgstr "Erstellt am:"
+
+msgid "Descripciones Multilingües"
+msgstr "Mehrsprachige Beschreibungen"
+
+msgid "Volver a la Lista"
+msgstr "Zurück zur Liste"
+
+msgid "Eliminar"
+msgstr "Löschen"
+
+msgid "Editar Tarea:"
+msgstr "Aufgabe bearbeiten:"
+
+msgid "Editar Descripciones"
+msgstr "Beschreibungen bearbeiten"
+
+msgid "Actualizar Tarea"
+msgstr "Aufgabe aktualisieren"
+
+msgid "Português"
+msgstr "Portugiesisch"
+
+msgid "Français"
+msgstr "Französisch"
+
+msgid "acceso"
+msgstr "Zugriff"
+
+msgid "correo electronico"
+msgstr "E-Mail"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "nombre comun"
+msgstr "gebräuchlicher Name"
+
+msgid "nombre cientifico"
+msgstr "wissenschaftlicher Name"
+
+msgid "tipo"
+msgstr "Typ"
+
+msgid "estado"
+msgstr "Status"
+
+msgid "rosa"
+msgstr "Rose"
+
+msgid "aloe vera"
+msgstr "Aloe Vera"
+
+msgid "girasol"
+msgstr "Sonnenblume"
+
+msgid "pino pitonero"
+msgstr "Pinie"
+
+msgid "lavanda"
+msgstr "Lavendel"
+
+msgid "orquidea mariposa"
+msgstr "Schmetterlingsorchidee"
+
+msgid "tomate"
+msgstr "Tomate"
+
+msgid "secuoya gigante"
+msgstr "Riesenmammutbaum"
+
+msgid "menta"
+msgstr "Minze"
+
+msgid "bambu"
+msgstr "Bambus"
+
+msgid "preocupación menor"
+msgstr "nicht gefährdet"
+
+msgid "vulnerable"
+msgstr "gefährdet"
+
+msgid "en peligro"
+msgstr "stark gefährdet"
+
+msgid "arbusto"
+msgstr "Strauch"
+
+msgid "suculentas"
+msgstr "Sukkulenten"
+
+msgid "hierba anual"
+msgstr "einjähriges Kraut"
+
+msgid "arbol"
+msgstr "Baum"
+
+msgid "arbusto perenne"
+msgstr "immergrüner Strauch"
+
+msgid "orquidea"
+msgstr "Orchidee"
+
+msgid "graminea"
+msgstr "Gras"
+
+msgid "idioma"
+msgstr "Sprache"
+
+msgid "telefono"
+msgstr "Telefon"
+
+msgid "pendiente"
+msgstr "ausstehend"
+
+msgid "lista de"
+msgstr "Liste von"
+
+msgid "santa cruz"
+msgstr "Santa Cruz"
+
+msgid "bolivia"
+msgstr "Bolivien"

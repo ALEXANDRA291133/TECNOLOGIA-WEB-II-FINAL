@@ -1,0 +1,329 @@
+# Chinese (Mandarin) translations - 中文（普通话）
+# Web Technology II Project
+
+msgid "Plantas"
+msgstr "植物"
+
+msgid "Mis Tareas"
+msgstr "我的任务"
+
+msgid "Iniciar Sesión"
+msgstr "登录"
+
+msgid "Cerrar Sesión"
+msgstr "退出登录"
+
+msgid "Bienvenido al sistema."
+msgstr "欢迎使用系统。"
+
+msgid "Proyecto Tecnología Web II"
+msgstr "网络技术 II 项目"
+
+msgid "Ingrese sus credenciales"
+msgstr "请输入您的凭证"
+
+msgid "Correo electrónico"
+msgstr "电子邮件地址"
+
+msgid "Contraseña"
+msgstr "密码"
+
+msgid "Entrar"
+msgstr "登录"
+
+msgid "Gestión de Plantas"
+msgstr "植物管理"
+
+msgid "Listado de Plantas"
+msgstr "植物列表"
+
+msgid "Gestionar Usuarios"
+msgstr "管理用户"
+
+msgid "Nombre Común"
+msgstr "通用名称"
+
+msgid "Nombre Científico"
+msgstr "学名"
+
+msgid "Tipo"
+msgstr "类型"
+
+msgid "Estado"
+msgstr "状态"
+
+msgid "Acciones"
+msgstr "操作"
+
+msgid "Ver"
+msgstr "查看"
+
+msgid "Editar"
+msgstr "编辑"
+
+msgid "Borrar"
+msgstr "删除"
+
+msgid "Ficha Técnica Botánica"
+msgstr "植物技术资料表"
+
+msgid "Categoría / Tipo"
+msgstr "类别 / 类型"
+
+msgid "Hábitat Natural"
+msgstr "自然栖息地"
+
+msgid "Estado de Conservación"
+msgstr "保护状况"
+
+msgid "Usos y Propiedades"
+msgstr "用途和特性"
+
+msgid "ID de Registro"
+msgstr "记录编号"
+
+msgid "Regresar al listado de plantas"
+msgstr "返回植物列表"
+
+msgid "Editar Planta"
+msgstr "编辑植物"
+
+msgid "Volver al Catálogo"
+msgstr "返回目录"
+
+msgid "Editar Información de Planta"
+msgstr "编辑植物信息"
+
+msgid "Ficha Técnica"
+msgstr "技术资料表"
+
+msgid "Tipo de Planta"
+msgstr "植物类型"
+
+msgid "Volver al Listado"
+msgstr "返回列表"
+
+msgid "Cancelar"
+msgstr "取消"
+
+msgid "Guardar Cambios"
+msgstr "保存更改"
+
+msgid "¿Deseas eliminar permanentemente esta planta?"
+msgstr "您是否要永久删除此植物？"
+
+msgid "Eliminar Registro"
+msgstr "删除记录"
+
+msgid "Gestión de Usuarios"
+msgstr "用户管理"
+
+msgid "Ver Plantas"
+msgstr "查看植物"
+
+msgid "Nuevo Usuario"
+msgstr "新用户"
+
+msgid "Nombre"
+msgstr "名字"
+
+msgid "Apellido"
+msgstr "姓氏"
+
+msgid "Correo"
+msgstr "电子邮件"
+
+msgid "Teléfono"
+msgstr "电话"
+
+msgid "Idioma"
+msgstr "语言"
+
+msgid "Español"
+msgstr "西班牙语"
+
+msgid "Inglés"
+msgstr "英语"
+
+msgid "Detalles del Perfil"
+msgstr "个人资料详情"
+
+msgid "Nombre Completo"
+msgstr "全名"
+
+msgid "Fecha de Creación"
+msgstr "创建日期"
+
+msgid "Última Modificación"
+msgstr "最后修改"
+
+msgid "Regresar al listado"
+msgstr "返回列表"
+
+msgid "Editar Usuario"
+msgstr "编辑用户"
+
+msgid "Información Personal"
+msgstr "个人信息"
+
+msgid "Nueva Contraseña (dejar en blanco para no cambiar)"
+msgstr "新密码（留空则不更改）"
+
+msgid "Eliminar Usuario"
+msgstr "删除用户"
+
+msgid "Mis Tareas Multilingües"
+msgstr "多语言我的任务"
+
+msgid "Nueva Tarea"
+msgstr "新任务"
+
+msgid "Buscar por título..."
+msgstr "按标题搜索..."
+
+msgid "Todos los estados"
+msgstr "所有状态"
+
+msgid "Filtrar"
+msgstr "筛选"
+
+msgid "Título"
+msgstr "标题"
+
+msgid "Fecha Límite"
+msgstr "截止日期"
+
+msgid "Pendiente"
+msgstr "待处理"
+
+msgid "En Progreso"
+msgstr "进行中"
+
+msgid "Completada"
+msgstr "已完成"
+
+msgid "Creada el:"
+msgstr "创建于："
+
+msgid "Descripciones Multilingües"
+msgstr "多语言描述"
+
+msgid "Volver a la Lista"
+msgstr "返回列表"
+
+msgid "Eliminar"
+msgstr "删除"
+
+msgid "Editar Tarea:"
+msgstr "编辑任务："
+
+msgid "Editar Descripciones"
+msgstr "编辑描述"
+
+msgid "Actualizar Tarea"
+msgstr "更新任务"
+
+msgid "Português"
+msgstr "葡萄牙语"
+
+msgid "Français"
+msgstr "法语"
+
+msgid "acceso"
+msgstr "访问"
+
+msgid "correo electronico"
+msgstr "电子邮件"
+
+msgid "ID"
+msgstr "编号"
+
+msgid "nombre comun"
+msgstr "通用名称"
+
+msgid "nombre cientifico"
+msgstr "学名"
+
+msgid "tipo"
+msgstr "类型"
+
+msgid "estado"
+msgstr "状态"
+
+msgid "rosa"
+msgstr "玫瑰"
+
+msgid "aloe vera"
+msgstr "芦荟"
+
+msgid "girasol"
+msgstr "向日葵"
+
+msgid "pino pitonero"
+msgstr "石松"
+
+msgid "lavanda"
+msgstr "薰衣草"
+
+msgid "orquidea mariposa"
+msgstr "蝴蝶兰"
+
+msgid "tomate"
+msgstr "番茄"
+
+msgid "secuoya gigante"
+msgstr "巨杉"
+
+msgid "menta"
+msgstr "薄荷"
+
+msgid "bambu"
+msgstr "竹子"
+
+msgid "preocupación menor"
+msgstr "无危"
+
+msgid "vulnerable"
+msgstr "易危"
+
+msgid "en peligro"
+msgstr "濒危"
+
+msgid "arbusto"
+msgstr "灌木"
+
+msgid "suculentas"
+msgstr "多肉植物"
+
+msgid "hierba anual"
+msgstr "一年生草本"
+
+msgid "arbol"
+msgstr "树木"
+
+msgid "arbusto perenne"
+msgstr "常绿灌木"
+
+msgid "orquidea"
+msgstr "兰花"
+
+msgid "graminea"
+msgstr "禾本科植物"
+
+msgid "idioma"
+msgstr "语言"
+
+msgid "telefono"
+msgstr "电话"
+
+msgid "pendiente"
+msgstr "待处理"
+
+msgid "lista de"
+msgstr "列表"
+
+msgid "santa cruz"
+msgstr "圣克鲁斯"
+
+msgid "bolivia"
+msgstr "玻利维亚"

@@ -1,0 +1,329 @@
+# Arabic (Saudi Arabia) translations - العربية (المملكة العربية السعودية)
+# Web Technology II Project
+
+msgid "Plantas"
+msgstr "النباتات"
+
+msgid "Mis Tareas"
+msgstr "مهامي"
+
+msgid "Iniciar Sesión"
+msgstr "تسجيل الدخول"
+
+msgid "Cerrar Sesión"
+msgstr "تسجيل الخروج"
+
+msgid "Bienvenido al sistema."
+msgstr "مرحباً بك في النظام."
+
+msgid "Proyecto Tecnología Web II"
+msgstr "مشروع تكنولوجيا الويب II"
+
+msgid "Ingrese sus credenciales"
+msgstr "أدخل بيانات الاعتماد الخاصة بك"
+
+msgid "Correo electrónico"
+msgstr "البريد الإلكتروني"
+
+msgid "Contraseña"
+msgstr "كلمة المرور"
+
+msgid "Entrar"
+msgstr "تسجيل الدخول"
+
+msgid "Gestión de Plantas"
+msgstr "إدارة النباتات"
+
+msgid "Listado de Plantas"
+msgstr "قائمة النباتات"
+
+msgid "Gestionar Usuarios"
+msgstr "إدارة المستخدمين"
+
+msgid "Nombre Común"
+msgstr "الاسم الشائع"
+
+msgid "Nombre Científico"
+msgstr "الاسم العلمي"
+
+msgid "Tipo"
+msgstr "النوع"
+
+msgid "Estado"
+msgstr "الحالة"
+
+msgid "Acciones"
+msgstr "الإجراءات"
+
+msgid "Ver"
+msgstr "عرض"
+
+msgid "Editar"
+msgstr "تعديل"
+
+msgid "Borrar"
+msgstr "حذف"
+
+msgid "Ficha Técnica Botánica"
+msgstr "ورقة البيانات النباتية"
+
+msgid "Categoría / Tipo"
+msgstr "الفئة / النوع"
+
+msgid "Hábitat Natural"
+msgstr "الموئل الطبيعي"
+
+msgid "Estado de Conservación"
+msgstr "حالة الحفظ"
+
+msgid "Usos y Propiedades"
+msgstr "الاستخدامات والخصائص"
+
+msgid "ID de Registro"
+msgstr "معرف التسجيل"
+
+msgid "Regresar al listado de plantas"
+msgstr "العودة إلى قائمة النباتات"
+
+msgid "Editar Planta"
+msgstr "تعديل النبات"
+
+msgid "Volver al Catálogo"
+msgstr "العودة إلى الكتالوج"
+
+msgid "Editar Información de Planta"
+msgstr "تعديل معلومات النبات"
+
+msgid "Ficha Técnica"
+msgstr "الورقة الفنية"
+
+msgid "Tipo de Planta"
+msgstr "نوع النبات"
+
+msgid "Volver al Listado"
+msgstr "العودة إلى القائمة"
+
+msgid "Cancelar"
+msgstr "إلغاء"
+
+msgid "Guardar Cambios"
+msgstr "حفظ التغييرات"
+
+msgid "¿Deseas eliminar permanentemente esta planta?"
+msgstr "هل تريد حذف هذا النبات بشكل دائم؟"
+
+msgid "Eliminar Registro"
+msgstr "حذف السجل"
+
+msgid "Gestión de Usuarios"
+msgstr "إدارة المستخدمين"
+
+msgid "Ver Plantas"
+msgstr "عرض النباتات"
+
+msgid "Nuevo Usuario"
+msgstr "مستخدم جديد"
+
+msgid "Nombre"
+msgstr "الاسم الأول"
+
+msgid "Apellido"
+msgstr "اسم العائلة"
+
+msgid "Correo"
+msgstr "البريد الإلكتروني"
+
+msgid "Teléfono"
+msgstr "الهاتف"
+
+msgid "Idioma"
+msgstr "اللغة"
+
+msgid "Español"
+msgstr "الإسبانية"
+
+msgid "Inglés"
+msgstr "الإنجليزية"
+
+msgid "Detalles del Perfil"
+msgstr "تفاصيل الملف الشخصي"
+
+msgid "Nombre Completo"
+msgstr "الاسم الكامل"
+
+msgid "Fecha de Creación"
+msgstr "تاريخ الإنشاء"
+
+msgid "Última Modificación"
+msgstr "آخر تعديل"
+
+msgid "Regresar al listado"
+msgstr "العودة إلى القائمة"
+
+msgid "Editar Usuario"
+msgstr "تعديل المستخدم"
+
+msgid "Información Personal"
+msgstr "المعلومات الشخصية"
+
+msgid "Nueva Contraseña (dejar en blanco para no cambiar)"
+msgstr "كلمة مرور جديدة (اتركها فارغة للإبقاء على الحالية)"
+
+msgid "Eliminar Usuario"
+msgstr "حذف المستخدم"
+
+msgid "Mis Tareas Multilingües"
+msgstr "مهامي متعددة اللغات"
+
+msgid "Nueva Tarea"
+msgstr "مهمة جديدة"
+
+msgid "Buscar por título..."
+msgstr "البحث بالعنوان..."
+
+msgid "Todos los estados"
+msgstr "جميع الحالات"
+
+msgid "Filtrar"
+msgstr "تصفية"
+
+msgid "Título"
+msgstr "العنوان"
+
+msgid "Fecha Límite"
+msgstr "الموعد النهائي"
+
+msgid "Pendiente"
+msgstr "قيد الانتظار"
+
+msgid "En Progreso"
+msgstr "قيد التنفيذ"
+
+msgid "Completada"
+msgstr "مكتمل"
+
+msgid "Creada el:"
+msgstr "تم الإنشاء في:"
+
+msgid "Descripciones Multilingües"
+msgstr "أوصاف متعددة اللغات"
+
+msgid "Volver a la Lista"
+msgstr "العودة إلى القائمة"
+
+msgid "Eliminar"
+msgstr "حذف"
+
+msgid "Editar Tarea:"
+msgstr "تعديل المهمة:"
+
+msgid "Editar Descripciones"
+msgstr "تعديل الأوصاف"
+
+msgid "Actualizar Tarea"
+msgstr "تحديث المهمة"
+
+msgid "Português"
+msgstr "البرتغالية"
+
+msgid "Français"
+msgstr "الفرنسية"
+
+msgid "acceso"
+msgstr "وصول"
+
+msgid "correo electronico"
+msgstr "البريد الإلكتروني"
+
+msgid "ID"
+msgstr "المعرف"
+
+msgid "nombre comun"
+msgstr "الاسم الشائع"
+
+msgid "nombre cientifico"
+msgstr "الاسم العلمي"
+
+msgid "tipo"
+msgstr "النوع"
+
+msgid "estado"
+msgstr "الحالة"
+
+msgid "rosa"
+msgstr "ورد"
+
+msgid "aloe vera"
+msgstr "الصبار"
+
+msgid "girasol"
+msgstr "دوار الشمس"
+
+msgid "pino pitonero"
+msgstr "صنوبر حجري"
+
+msgid "lavanda"
+msgstr "لافندر"
+
+msgid "orquidea mariposa"
+msgstr "سحلبية فراشة"
+
+msgid "tomate"
+msgstr "طماطم"
+
+msgid "secuoya gigante"
+msgstr "سيكويا عملاقة"
+
+msgid "menta"
+msgstr "نعناع"
+
+msgid "bambu"
+msgstr "خيزران"
+
+msgid "preocupación menor"
+msgstr "غير مهدد"
+
+msgid "vulnerable"
+msgstr "معرض للخطر"
+
+msgid "en peligro"
+msgstr "مهدد بالانقراض"
+
+msgid "arbusto"
+msgstr "شجيرة"
+
+msgid "suculentas"
+msgstr "نباتات عصارية"
+
+msgid "hierba anual"
+msgstr "عشب حولي"
+
+msgid "arbol"
+msgstr "شجرة"
+
+msgid "arbusto perenne"
+msgstr "شجيرة دائمة الخضرة"
+
+msgid "orquidea"
+msgstr "سحلبية"
+
+msgid "graminea"
+msgstr "نجيلية"
+
+msgid "idioma"
+msgstr "اللغة"
+
+msgid "telefono"
+msgstr "الهاتف"
+
+msgid "pendiente"
+msgstr "قيد الانتظار"
+
+msgid "lista de"
+msgstr "قائمة"
+
+msgid "santa cruz"
+msgstr "سانتا كروز"
+
+msgid "bolivia"
+msgstr "بوليفيا"

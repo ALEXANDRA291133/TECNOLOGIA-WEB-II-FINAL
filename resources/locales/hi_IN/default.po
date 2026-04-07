@@ -1,0 +1,329 @@
+# Hindi (India) translations - हिन्दी (भारत)
+# Web Technology II Project
+
+msgid "Plantas"
+msgstr "पौधे"
+
+msgid "Mis Tareas"
+msgstr "मेरे कार्य"
+
+msgid "Iniciar Sesión"
+msgstr "लॉगिन करें"
+
+msgid "Cerrar Sesión"
+msgstr "लॉगआउट करें"
+
+msgid "Bienvenido al sistema."
+msgstr "सिस्टम में आपका स्वागत है।"
+
+msgid "Proyecto Tecnología Web II"
+msgstr "वेब प्रौद्योगिकी II परियोजना"
+
+msgid "Ingrese sus credenciales"
+msgstr "अपना प्रमाण-पत्र दर्ज करें"
+
+msgid "Correo electrónico"
+msgstr "ईमेल पता"
+
+msgid "Contraseña"
+msgstr "पासवर्ड"
+
+msgid "Entrar"
+msgstr "साइन इन करें"
+
+msgid "Gestión de Plantas"
+msgstr "पौधा प्रबंधन"
+
+msgid "Listado de Plantas"
+msgstr "पौधों की सूची"
+
+msgid "Gestionar Usuarios"
+msgstr "उपयोगकर्ता प्रबंधित करें"
+
+msgid "Nombre Común"
+msgstr "सामान्य नाम"
+
+msgid "Nombre Científico"
+msgstr "वैज्ञानिक नाम"
+
+msgid "Tipo"
+msgstr "प्रकार"
+
+msgid "Estado"
+msgstr "स्थिति"
+
+msgid "Acciones"
+msgstr "कार्रवाइयाँ"
+
+msgid "Ver"
+msgstr "देखें"
+
+msgid "Editar"
+msgstr "संपादित करें"
+
+msgid "Borrar"
+msgstr "हटाएँ"
+
+msgid "Ficha Técnica Botánica"
+msgstr "वनस्पति तकनीकी डेटा शीट"
+
+msgid "Categoría / Tipo"
+msgstr "श्रेणी / प्रकार"
+
+msgid "Hábitat Natural"
+msgstr "प्राकृतिक आवास"
+
+msgid "Estado de Conservación"
+msgstr "संरक्षण स्थिति"
+
+msgid "Usos y Propiedades"
+msgstr "उपयोग और गुण"
+
+msgid "ID de Registro"
+msgstr "रिकॉर्ड आईडी"
+
+msgid "Regresar al listado de plantas"
+msgstr "पौधों की सूची पर वापस जाएँ"
+
+msgid "Editar Planta"
+msgstr "पौधा संपादित करें"
+
+msgid "Volver al Catálogo"
+msgstr "सूची पर वापस जाएँ"
+
+msgid "Editar Información de Planta"
+msgstr "पौधे की जानकारी संपादित करें"
+
+msgid "Ficha Técnica"
+msgstr "तकनीकी डेटा शीट"
+
+msgid "Tipo de Planta"
+msgstr "पौधे का प्रकार"
+
+msgid "Volver al Listado"
+msgstr "सूची पर वापस जाएँ"
+
+msgid "Cancelar"
+msgstr "रद्द करें"
+
+msgid "Guardar Cambios"
+msgstr "परिवर्तन सहेजें"
+
+msgid "¿Deseas eliminar permanentemente esta planta?"
+msgstr "क्या आप इस पौधे को स्थायी रूप से हटाना चाहते हैं?"
+
+msgid "Eliminar Registro"
+msgstr "रिकॉर्ड हटाएँ"
+
+msgid "Gestión de Usuarios"
+msgstr "उपयोगकर्ता प्रबंधन"
+
+msgid "Ver Plantas"
+msgstr "पौधे देखें"
+
+msgid "Nuevo Usuario"
+msgstr "नया उपयोगकर्ता"
+
+msgid "Nombre"
+msgstr "पहला नाम"
+
+msgid "Apellido"
+msgstr "अंतिम नाम"
+
+msgid "Correo"
+msgstr "ईमेल"
+
+msgid "Teléfono"
+msgstr "फ़ोन"
+
+msgid "Idioma"
+msgstr "भाषा"
+
+msgid "Español"
+msgstr "स्पेनिश"
+
+msgid "Inglés"
+msgstr "अंग्रेज़ी"
+
+msgid "Detalles del Perfil"
+msgstr "प्रोफ़ाइल विवरण"
+
+msgid "Nombre Completo"
+msgstr "पूरा नाम"
+
+msgid "Fecha de Creación"
+msgstr "निर्माण तिथि"
+
+msgid "Última Modificación"
+msgstr "अंतिम संशोधन"
+
+msgid "Regresar al listado"
+msgstr "सूची पर वापस जाएँ"
+
+msgid "Editar Usuario"
+msgstr "उपयोगकर्ता संपादित करें"
+
+msgid "Información Personal"
+msgstr "व्यक्तिगत जानकारी"
+
+msgid "Nueva Contraseña (dejar en blanco para no cambiar)"
+msgstr "नया पासवर्ड (अपरिवर्तित रखने के लिए खाली छोड़ें)"
+
+msgid "Eliminar Usuario"
+msgstr "उपयोगकर्ता हटाएँ"
+
+msgid "Mis Tareas Multilingües"
+msgstr "बहुभाषी मेरे कार्य"
+
+msgid "Nueva Tarea"
+msgstr "नया कार्य"
+
+msgid "Buscar por título..."
+msgstr "शीर्षक से खोजें..."
+
+msgid "Todos los estados"
+msgstr "सभी स्थितियाँ"
+
+msgid "Filtrar"
+msgstr "फ़िल्टर करें"
+
+msgid "Título"
+msgstr "शीर्षक"
+
+msgid "Fecha Límite"
+msgstr "अंतिम तिथि"
+
+msgid "Pendiente"
+msgstr "लंबित"
+
+msgid "En Progreso"
+msgstr "प्रगति में"
+
+msgid "Completada"
+msgstr "पूर्ण हुआ"
+
+msgid "Creada el:"
+msgstr "निर्मित:"
+
+msgid "Descripciones Multilingües"
+msgstr "बहुभाषी विवरण"
+
+msgid "Volver a la Lista"
+msgstr "सूची पर वापस जाएँ"
+
+msgid "Eliminar"
+msgstr "हटाएँ"
+
+msgid "Editar Tarea:"
+msgstr "कार्य संपादित करें:"
+
+msgid "Editar Descripciones"
+msgstr "विवरण संपादित करें"
+
+msgid "Actualizar Tarea"
+msgstr "कार्य अपडेट करें"
+
+msgid "Português"
+msgstr "पुर्तगाली"
+
+msgid "Français"
+msgstr "फ्रेंच"
+
+msgid "acceso"
+msgstr "पहुंच"
+
+msgid "correo electronico"
+msgstr "ईमेल"
+
+msgid "ID"
+msgstr "आईडी"
+
+msgid "nombre comun"
+msgstr "सामान्य नाम"
+
+msgid "nombre cientifico"
+msgstr "वैज्ञानिक नाम"
+
+msgid "tipo"
+msgstr "प्रकार"
+
+msgid "estado"
+msgstr "स्थिति"
+
+msgid "rosa"
+msgstr "गुलाब"
+
+msgid "aloe vera"
+msgstr "एलोवेरा"
+
+msgid "girasol"
+msgstr "सूरजमुखी"
+
+msgid "pino pitonero"
+msgstr "स्टोन पाइन"
+
+msgid "lavanda"
+msgstr "लैवेंडर"
+
+msgid "orquidea mariposa"
+msgstr "बटरफ्लाई ऑर्किड"
+
+msgid "tomate"
+msgstr "टमाटर"
+
+msgid "secuoya gigante"
+msgstr "विशाल सेक्वोइया"
+
+msgid "menta"
+msgstr "पुदीना"
+
+msgid "bambu"
+msgstr "बांस"
+
+msgid "preocupación menor"
+msgstr "संकटासन्न नहीं"
+
+msgid "vulnerable"
+msgstr "असुरक्षित"
+
+msgid "en peligro"
+msgstr "संकटग्रस्त"
+
+msgid "arbusto"
+msgstr "झाड़ी"
+
+msgid "suculentas"
+msgstr "रसीले पौधे"
+
+msgid "hierba anual"
+msgstr "वार्षिक घास"
+
+msgid "arbol"
+msgstr "पेड़"
+
+msgid "arbusto perenne"
+msgstr "सदाबहार झाड़ी"
+
+msgid "orquidea"
+msgstr "ऑर्किड"
+
+msgid "graminea"
+msgstr "घास"
+
+msgid "idioma"
+msgstr "भाषा"
+
+msgid "telefono"
+msgstr "फ़ोन"
+
+msgid "pendiente"
+msgstr "लंबित"
+
+msgid "lista de"
+msgstr "की सूची"
+
+msgid "santa cruz"
+msgstr "सांता क्रूज़"
+
+msgid "bolivia"
+msgstr "बोलीविया"
