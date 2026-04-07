@@ -9,27 +9,35 @@ Este proyecto consiste en la contenerización de una aplicación web desarrollad
 Se creó una imagen personalizada basada en PHP con Apache, configurando las extensiones necesarias para el correcto funcionamiento del sistema, y ​​se orquestó mediante podman-compose.
 
 ⚙️ Tecnologías utilizadas
+
 PHP 8.2 + Apache
 CakePHP
 Podman
 Podman Compose
 Linux
+
+
 📁 Estructura del proyecto
 devops/
 ├── Dockerfile
 ├── compose.yml
 └── app_ef/   # Aplicación CakePHP
+
+
 🚀 Pasos de implementación
+
 1️⃣ Crear carpeta de trabajo
 mkdir ~/devops/
 cd ~/devops/
 📌 ¿Qué hace? Crea una carpeta llamada devopsy entra en ella para trabajar.
+
 
 2️⃣ Colocar la aplicación
 Copiar o clonar el proyecto dentro de la carpeta:
 
 app_ef/
 📌 ¿Qué hace? Contiene todo el código fuente de la aplicación CakePHP.
+
 
 3️⃣ Crear el Dockerfile
 FROM php:8.2-apache
@@ -57,6 +65,8 @@ Usa PHP con Apache
 Instale las extensiones necesarias ( intl, pdo_mysql, etc.)
 Copia la aplicación al contenedor
 Configurar permisos
+
+
 4️⃣ Crear compose.yml
 services:
   php-app:
@@ -70,6 +80,8 @@ services:
 Usa la imagen creada ( ef-app)
 Expone el puerto 8080
 Mantiene el contenedor activo
+
+
 5️⃣ Configuración de rojo (opcional)
 sudo mousepad /etc/containers/containers.conf
 Agregar:
@@ -78,17 +90,21 @@ Agregar:
 network_cmd = "host"
 📌 ¿Qué hace? Permite que Podman utilice la red del host, evitando problemas de conexión.
 
+
 6️⃣ Construir la imagen
 podman build -t ef-app .
 📌 ¿Qué hace? Crea una imagen llamada ef-appdesde el Dockerfile.
+
 
 7️⃣ Verificar imágenes
 podman images
 📌 ¿Qué hace? Muestra las imágenes disponibles en el sistema.
 
+
 8️⃣ Ejecutar contenedor
 podman-compose up
 📌 ¿Qué hace? Levante el contenedor definido en compose.yml.
+
 
 9️⃣ Acceder a la aplicación
 http://localhost:8080
@@ -99,15 +115,19 @@ Ver puertos en uso
 sudo ss -tuln
 📌 Muestra los puertos ocupados en el sistema.
 
+
 Ver contenedores activos
 podman ps
 📌 Lista los contenedores en ejecución.
+
 
 Ver registros del contenedor
 podman logs ef-app
 📌 errores Muestra o información del contenedor.
 
+
 🛠 Problemas solucionados
+
 ❌ Error en COPY (ruta incorrecta) ✔ Se corrigió el nombre de la carpeta ( app_ef)
 
 ❌ Falta de extensión intl ✔ Se instaló condocker-php-ext-install
@@ -122,6 +142,7 @@ Acceso vía navegador
 Entorno reproducible
 Configuración portable
 
+
 🌍 Internacionalización (i18n)
 
 El sistema soporta 11 idiomas. La lógica de traducción se gestiona mediante archivos de recursos localizados:
@@ -132,13 +153,14 @@ Portugués	pt_BR	resources/locales/pt_BR/default.po
 Ruso	ru_RU	resources/locales/ru_RU/default.po
 Chino	zh_CN	resources/locales/zh_CN/default.po
 
-    Nota: El selector de idiomas se encuentra en la barra de navegación superior (icono <i class="bi bi-translate"></i>).
+    
 
 📸 Vista Previa
 Gestión de Tareas Multilingüe
 ### 1. Pantalla de Inicio de Sesión (Seguridad Manual)
 ![Inicio de Sesión](screenshots/login.png)
 *Formulario de autenticación protegido mediante sesiones manuales en el controlador.*
+
 
 ### 2. Gestión de Plantas (Catálogo Botánico)
 ![Listado de Plantas](screenshots/plantas.png)
@@ -152,17 +174,22 @@ Gestión de Tareas Multilingüe
 ![Gestión de Usuarios](screenshots/user.png)
 *Panel de control para gestionar usuarios del sistema y asignar sus idiomas preferidos.*
 
+
 Detalle botánico con información técnica y visualización responsiva.
 ⚙️ Comandos Útiles
+
 
 Si necesitas entrar al contenedor para ejecutar comandos de CakePHP (como migraciones):
 Bash
 
+
 # Entrar a la terminal del contenedor de la app
 docker exec -it upds_app_container bash
 
+
 # Limpiar caché de CakePHP dentro del contenedor
 bin/cake cache clear_all
+
 
 👤 Autor
 
