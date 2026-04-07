@@ -1,197 +1,81 @@
-📝 UPDS TaskManager - Docker Edition
+📝 UPDS TaskManager: Gestión de Tareas Multilingüe
 
-Este proyecto es un sistema de gestión multilingüe desarrollado en CakePHP 4.x. Se ha "dockerizado" para garantizar una implementación rápida y sin errores de configuración en cualquier entorno.
+Descripción del Proyecto
 
- Despliegue de Aplicación CakePHP con Podman
-📌 Descripción
-Este proyecto consiste en la contenerización de una aplicación web desarrollada en CakePHP , utilizando Podman como motor de contenedores.
+Este sistema es una solución web para la gestión de tareas personales que prioriza la inclusión lingüística y cultural.
+Permite a cada usuario administrar sus actividades en un entorno adaptado a su idioma preferido, cumpliendo con los requisitos socioformativos de la materia Tecnología Web II.
 
-Se creó una imagen personalizada basada en PHP con Apache, configurando las extensiones necesarias para el correcto funcionamiento del sistema, y ​​se orquestó mediante podman-compose.
+🛠️ Stack Tecnológico
 
-⚙️ Tecnologías utilizadas
-
-PHP 8.2 + Apache
-CakePHP
-Podman
-Podman Compose
-Linux
+* Framework: CakePHP 5.x (Arquitectura MVC).
+* Lenguaje: PHP 8.2.12.Base de Datos: MariaDB (10.4.32).
+* Infraestructura: Despliegue mediante contenedores Podman en entorno Linux.
+* Frontend: Bootstrap 5 para un diseño responsivo y adaptativo.
 
 
-📁 Estructura del proyecto
-devops/
-├── Dockerfile
-├── compose.yml
-└── app_ef/   # Aplicación CakePHP
+* 🚀 Instalación y Despliegue con Podman
 
+* El proyecto está diseñado para ejecutarse de forma aislada y reproducible utilizando un stack de contenedores para facilitar su puesta en marcha en cualquier entorno.
 
-🚀 Pasos de implementación
+1. Requisitos
 
-1️⃣ Crear carpeta de trabajo
-mkdir ~/devops/
-cd ~/devops/
-📌 ¿Qué hace? Crea una carpeta llamada devopsy entra en ella para trabajar.
+* Podman y Podman-compose instalados.
+* Puerto 8085 disponible en el equipo host.
 
+2. Estructura de Directorios
 
-2️⃣ Colocar la aplicación
-Copiar o clonar el proyecto dentro de la carpeta:
-
-app_ef/
-📌 ¿Qué hace? Contiene todo el código fuente de la aplicación CakePHP.
-
-
-3️⃣ Crear el Dockerfile
-FROM php:8.2-apache
-
-# Instalar extensiones necesarias
-RUN apt-get update && apt-get install -y \
-    libicu-dev \
-    && docker-php-ext-install intl pdo pdo_mysql mysqli
-
-# Habilitar mod_rewrite
-RUN a2enmod rewrite
-
-# Copiar aplicación
-COPY app_ef/ /var/www/html/
-
-# Permisos
-RUN chown -R www-data:www-data /var/www/html && \
-    chmod -R 755 /var/www/html
-
-# Puerto
-EXPOSE 80
-📌 ¿Qué hace? Defina cómo se construye la imagen:
-
-Usa PHP con Apache
-Instale las extensiones necesarias ( intl, pdo_mysql, etc.)
-Copia la aplicación al contenedor
-Configurar permisos
-
-
-4️⃣ Crear compose.yml
-services:
-  php-app:
-    image: ef-app
-    container_name: ef-app
-    ports:
-      - "8080:80"
-    restart: unless-stopped
-📌 ¿Qué hace? Defina cómo se ejecuta el contenedor:
-
-Usa la imagen creada ( ef-app)
-Expone el puerto 8080
-Mantiene el contenedor activo
-
-
-5️⃣ Configuración de rojo (opcional)
-sudo mousepad /etc/containers/containers.conf
-Agregar:
-
-[engine]
-network_cmd = "host"
-📌 ¿Qué hace? Permite que Podman utilice la red del host, evitando problemas de conexión.
-
-
-6️⃣ Construir la imagen
-podman build -t ef-app .
-📌 ¿Qué hace? Crea una imagen llamada ef-appdesde el Dockerfile.
-
-
-7️⃣ Verificar imágenes
-podman images
-📌 ¿Qué hace? Muestra las imágenes disponibles en el sistema.
-
-
-8️⃣ Ejecutar contenedor
-podman-compose up
-📌 ¿Qué hace? Levante el contenedor definido en compose.yml.
-
-
-9️⃣ Acceder a la aplicación
-http://localhost:8080
-📌 ¿Qué hace? Permite acceder a la aplicación desde el navegador.
-
-🔍 Comandos útiles
-Ver puertos en uso
-sudo ss -tuln
-📌 Muestra los puertos ocupados en el sistema.
-
-
-Ver contenedores activos
-podman ps
-📌 Lista los contenedores en ejecución.
-
-
-Ver registros del contenedor
-podman logs ef-app
-📌 errores Muestra o información del contenedor.
-
-
-🛠 Problemas solucionados
-
-❌ Error en COPY (ruta incorrecta) ✔ Se corrigió el nombre de la carpeta ( app_ef)
-
-❌ Falta de extensión intl ✔ Se instaló condocker-php-ext-install
-
-❌ Error de conexión MySQL ✔ Se agregó pdo_mysqlymysqli
-
-❌ Error de imagen inexistente ✔ Se ejecutópodman build
-
-✅ Resultado final
-Aplicación funcionando en contenedor
-Acceso vía navegador
-Entorno reproducible
-Configuración portable
-
-
-🌍 Internacionalización (i18n)
-
-El sistema soporta 11 idiomas. La lógica de traducción se gestiona mediante archivos de recursos localizados:
-Idioma	Código	Ruta del Recurso
-Español	es_ES	resources/locales/es_ES/default.po
-Inglés	en_US	resources/locales/en_US/default.po
-Portugués	pt_BR	resources/locales/pt_BR/default.po
-Ruso	ru_RU	resources/locales/ru_RU/default.po
-Chino	zh_CN	resources/locales/zh_CN/default.po
-
+* Para que el montaje de volúmenes funcione correctamente, la estructura de archivos debe ser la siguiente:
+  
+Plaintext/home/live/podman/devops/
+├── compose.yml       # Configuración de servicios (App y DB)
+├── Dockerfile        # Imagen personalizada PHP 8.2 + Apache
+└── html/             # Código fuente mapeado al contenedor
+    └── app_ef/       # Carpeta principal de CakePHP
     
+4. Comandos de Ejecución
 
-📸 Vista Previa
-Gestión de Tareas Multilingüe
-### 1. Pantalla de Inicio de Sesión (Seguridad Manual)
-![Inicio de Sesión](screenshots/login.png)
-*Formulario de autenticación protegido mediante sesiones manuales en el controlador.*
+Desde la terminal en la carpeta devops, ejecuta:
 
+Bash# Construir la imagen y levantar los servicios
 
-### 2. Gestión de Plantas (Catálogo Botánico)
-![Listado de Plantas](screenshots/plantas.png)
-*Tabla responsiva con Bootstrap 5, mostrando el CRUD de plantas.*
-
-### 3. Gestión de Tareas (Filtros y Estados)
-![Listado de Tareas](screenshots/tareas.png)
-*Tabla de actividades con filtros dinámicos por título y estado, incluyendo fecha límite.*
-
-### 4. Administración de Usuarios (Control de Acceso)
-![Gestión de Usuarios](screenshots/user.png)
-*Panel de control para gestionar usuarios del sistema y asignar sus idiomas preferidos.*
+podman-compose up -d --build
 
 
-Detalle botánico con información técnica y visualización responsiva.
-⚙️ Comandos Útiles
+Acceso al sistema: http://localhost:8085/app_ef.
+
+🌍 Funcionalidades de Internacionalización (i18n)
+
+El sistema implementa mecanismos de internacionalización para soportar múltiples idiomas en la interfaz:
+Selector de Idiomas:
+
+* Menú dinámico para cambiar entre 11 idiomas (ES, EN, PT, FR, DE, RU, ZH, JA, KO, AR, HI).
+  
+* Persistencia: El idioma se guarda en el perfil del usuario y en la sesión.
+  
+*Descripciones Bilingües: Soporte para títulos y descripciones en diferentes lenguas simultáneamente.
+
+*Recursos: Uso de archivos .po localizados en resources/locales/.
 
 
-Si necesitas entrar al contenedor para ejecutar comandos de CakePHP (como migraciones):
-Bash
+
+📸 Vista Previa del Sistema
+
+* Módulo                                                                         *Funcionalidad
+Gestión de Tareas                                                                 CRUD completo con filtros por estado y buscador de títulos.
+Edición Localizada                                                                Formulario con pestañas para ingresar descripciones en varios idiomas.
+Fichas Técnicas                                                                   Vista de detalle organizada para contenidos extensos y bilingües.
+Catálogo de Plantas                                                               Módulo de gestión botánica integrado con el sistema de seguridad.
 
 
-# Entrar a la terminal del contenedor de la app
-docker exec -it upds_app_container bash
+🤖 Bitácora de Inteligencia Artificial
+
+En cumplimiento con el modelo educativo UPDS, se utilizó IA como apoyo estratégico en:
+
+* Optimización DevOps: Creación del Dockerfile y resolución de conflictos de permisos en carpetas tmp/ y logs/.
+* Lógica de Traducción: Generación de archivos de recursos para idiomas con alfabetos no latinos.
+* Refactorización: Mejora de la seguridad en el AppController para el manejo de sesiones multilingües.
+* Las sugerencias de la IA fueron evaluadas y modificadas críticamente antes de su implementación.
 
 
-# Limpiar caché de CakePHP dentro del contenedor
-bin/cake cache clear_all
-
-
-👤 Autor
-
-    Alexandra Ibañez
-    Estudiante de Ing. de sistemas
+👤 Información del Proyecto
+* Autor: Alexandra Ibañez
