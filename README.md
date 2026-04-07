@@ -228,11 +228,11 @@ podman logs ef-app
 ---
 
 
-##🌍 Funcionalidades de Internacionalización (i18n)
-
+🌍 Funcionalidades de Internacionalización (i18n)
+---
 El sistema implementa mecanismos de internacionalización para soportar múltiples idiomas en la interfaz:
 Selector de Idiomas:
----
+
 * Menú dinámico para cambiar entre 11 idiomas (ES, EN, PT, FR, DE, RU, ZH, JA, KO, AR, HI).
   
 * Persistencia: El idioma se guarda en el perfil del usuario y en la sesión.
