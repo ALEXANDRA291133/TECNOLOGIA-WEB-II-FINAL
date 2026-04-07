@@ -1,6 +1,6 @@
 ---
 📝 UPDS TaskManager: Gestión de Tareas Multilingüe
----
+
 
 Descripción del Proyecto
 Este sistema es una solución web para la gestión de tareas personales que prioriza la inclusión lingüística y cultural.
@@ -18,7 +18,7 @@ Permite a cada usuario administrar sus actividades en un entorno adaptado a su i
 * Frontend: Bootstrap 5 para un diseño responsivo y adaptativo.
 ---
 
-##🚀 Instalación y Despliegue con Podman
+🚀 Instalación y Despliegue con Podman
 
 * El proyecto está diseñado para ejecutarse de forma aislada y reproducible utilizando un stack de contenedores para facilitar su puesta en marcha en cualquier entorno.
 ---
