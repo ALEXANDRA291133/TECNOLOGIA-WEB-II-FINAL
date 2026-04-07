@@ -1,5 +1,4 @@
----
-📝 UPDS TaskManager: Gestión de Tareas Multilingüe
+#📝 UPDS TaskManager: Gestión de Tareas Multilingüe
 
 
 Descripción del Proyecto
@@ -8,7 +7,7 @@ Permite a cada usuario administrar sus actividades en un entorno adaptado a su i
 
 
 
----
+
 🛠️ Stack Tecnológico
 ---
 
