@@ -1,16 +1,16 @@
 ##📝 UPDS TaskManager: Gestión de Tareas Multilingüe
 
 
----
+
 Descripción del Proyecto
 Este sistema es una solución web para la gestión de tareas personales que prioriza la inclusión lingüística y cultural.
 Permite a cada usuario administrar sus actividades en un entorno adaptado a su idioma preferido, cumpliendo con los requisitos socioformativos de la materia Tecnología Web II.
----
+
 
 
 ##🛠️ Stack Tecnológico
 
----
+
 * Framework: CakePHP 5.x (Arquitectura MVC).
 * Lenguaje: PHP 8.4.Base de Datos: MariaDB.
 * Infraestructura: Despliegue mediante contenedores Podman en entorno Linux.
