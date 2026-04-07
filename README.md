@@ -1,7 +1,6 @@
 📝 UPDS TaskManager: Gestión de Tareas Multilingüe
 ---
-Descripción del Proyecto
-
+Descripción del Proyecto:
 Este sistema es una solución web para la gestión de tareas personales que prioriza la inclusión lingüística y cultural.
 Permite a cada usuario administrar sus actividades en un entorno adaptado a su idioma preferido.
 ---
@@ -254,14 +253,11 @@ Fichas Técnicas                                                                
 Catálogo de Plantas                                                               Módulo de gestión botánica integrado con el sistema de seguridad.
 ---
 
----
-🤖 Bitácora de Inteligencia Artificial
---
 
+🤖 Bitácora de Inteligencia Artificial
+---
 En cumplimiento con el modelo educativo UPDS, se utilizó IA como apoyo estratégico en:
 
-
----
 * Optimización DevOps: Creación del Dockerfile y resolución de conflictos de permisos en carpetas tmp/ y logs/.
 * Lógica de Traducción: Generación de archivos de recursos para idiomas con alfabetos no latinos.
 * Refactorización: Mejora de la seguridad en el AppController para el manejo de sesiones multilingües.
