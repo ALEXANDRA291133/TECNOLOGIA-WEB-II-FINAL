@@ -264,6 +264,5 @@ En cumplimiento con el modelo educativo UPDS, se utilizó IA como apoyo estraté
 * Las sugerencias de la IA fueron evaluadas y modificadas críticamente antes de su implementación.
 ---
 
----
+
 * Autor: Alexandra Ibañez
----
