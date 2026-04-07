@@ -22,29 +22,208 @@ Permite a cada usuario administrar sus actividades en un entorno adaptado a su i
 * Podman y Podman-compose instalados.
 * Puerto 8080 disponible en el equipo host.
 
-2. Estructura de Directorios
 
-* Para que el montaje de volúmenes funcione correctamente, la estructura de archivos debe ser la siguiente:
-  
-Plaintext/home/live/podman/devops/
+## 📁 Estructura del proyecto
 
-├── compose.yml       # Configuración de servicios (App y DB)
+```
+devops/
+├── Dockerfile
+├── compose.yml
+└── app_ef/   # Aplicación CakePHP
+```
 
-├── Dockerfile        # Imagen personalizada PHP 8.2 + Apache
+---
 
-└── html/             # Código fuente mapeado al contenedor
-    └── app_ef/       # Carpeta principal de CakePHP
-    
-4. Comandos de Ejecución
+## 🚀 Pasos de implementación
 
-Desde la terminal en la carpeta devops, ejecuta:
+### 1️⃣ Crear carpeta de trabajo
 
-Bash# Construir la imagen y levantar los servicios
+```bash
+mkdir ~/devops/
+cd ~/devops/
+```
 
-podman-compose up -d --build
+📌 **¿Qué hace?**
+Crea una carpeta llamada `devops` y entra en ella para trabajar.
 
+---
 
-Acceso al sistema: http://localhost:8085/app_ef.
+### 2️⃣ Colocar la aplicación
+
+Copiar o clonar el proyecto dentro de la carpeta:
+
+```
+app_ef/
+```
+
+📌 **¿Qué hace?**
+Contiene todo el código fuente de la aplicación CakePHP.
+
+---
+
+### 3️⃣ Crear el Dockerfile
+
+```dockerfile
+FROM php:8.2-apache
+
+# Instalar extensiones necesarias
+RUN apt-get update && apt-get install -y \
+    libicu-dev \
+    && docker-php-ext-install intl pdo pdo_mysql mysqli
+
+# Habilitar mod_rewrite
+RUN a2enmod rewrite
+
+# Copiar aplicación
+COPY app_ef/ /var/www/html/
+
+# Permisos
+RUN chown -R www-data:www-data /var/www/html && \
+    chmod -R 755 /var/www/html
+
+# Puerto
+EXPOSE 80
+```
+
+📌 **¿Qué hace?**
+Define cómo se construye la imagen:
+
+* Usa PHP con Apache
+* Instala extensiones necesarias (`intl`, `pdo_mysql`, etc.)
+* Copia la aplicación al contenedor
+* Configura permisos
+
+### 4️⃣ Crear compose.yml
+
+```yaml
+services:
+  php-app:
+    image: ef-app
+    container_name: ef-app
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+```
+
+📌 **¿Qué hace?**
+Define cómo se ejecuta el contenedor:
+
+* Usa la imagen creada (`ef-app`)
+* Expone el puerto 8080
+* Mantiene el contenedor activo
+
+---
+
+### 5️⃣ Configuración de red (opcional)
+
+```bash
+sudo mousepad /etc/containers/containers.conf
+```
+
+Agregar:
+
+```ini
+[engine]
+network_cmd = "host"
+```
+
+📌 **¿Qué hace?**
+Permite que Podman use la red del host, evitando problemas de conexión.
+
+---
+
+### 6️⃣ Construir la imagen
+
+```bash
+podman build -t ef-app .
+```
+
+📌 **¿Qué hace?**
+Crea una imagen llamada `ef-app` a partir del Dockerfile.
+
+---
+
+### 7️⃣ Verificar imágenes
+
+```bash
+podman images
+```
+
+📌 **¿Qué hace?**
+Muestra las imágenes disponibles en el sistema.
+
+---
+
+### 8️⃣ Ejecutar contenedor
+
+```bash
+podman-compose up
+```
+
+📌 **¿Qué hace?**
+Levanta el contenedor definido en `compose.yml`.
+
+---
+
+### 9️⃣ Acceder a la aplicación
+
+```
+http://localhost:8080
+```
+
+📌 **¿Qué hace?**
+Permite acceder a la aplicación desde el navegador.
+
+---
+
+## 🔍 Comandos útiles
+
+### Ver puertos en uso
+
+```bash
+sudo ss -tuln
+```
+
+📌 Muestra los puertos ocupados en el sistema.
+
+---
+
+### Ver contenedores activos
+
+```bash
+podman ps
+```
+
+📌 Lista los contenedores en ejecución.
+
+---
+
+### Ver logs del contenedor
+
+```bash
+podman logs ef-app
+```
+
+📌 Muestra errores o información del contenedor.
+
+---
+
+## 🛠 Problemas solucionados
+
+* ❌ Error en COPY (ruta incorrecta)
+  ✔ Se corrigió el nombre de carpeta (`app_ef`)
+
+* ❌ Falta de extensión `intl`
+  ✔ Se instaló con `docker-php-ext-install`
+
+* ❌ Error de conexión MySQL
+  ✔ Se agregó `pdo_mysql` y `mysqli`
+
+* ❌ Error de imagen inexistente
+  ✔ Se ejecutó `podman build`
+
+---
+
 
 🌍 Funcionalidades de Internacionalización (i18n)
 
