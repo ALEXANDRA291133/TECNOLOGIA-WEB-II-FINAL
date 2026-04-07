@@ -8,7 +8,7 @@ Permite a cada usuario administrar sus actividades en un entorno adaptado a su i
 🛠️ Stack Tecnológico
 
 * Framework: CakePHP 5.x (Arquitectura MVC).
-* Lenguaje: PHP 8.2.12.Base de Datos: MariaDB (10.4.32).
+* Lenguaje: PHP 8.4.Base de Datos: MariaDB.
 * Infraestructura: Despliegue mediante contenedores Podman en entorno Linux.
 * Frontend: Bootstrap 5 para un diseño responsivo y adaptativo.
 
@@ -20,15 +20,18 @@ Permite a cada usuario administrar sus actividades en un entorno adaptado a su i
 1. Requisitos
 
 * Podman y Podman-compose instalados.
-* Puerto 8085 disponible en el equipo host.
+* Puerto 8080 disponible en el equipo host.
 
 2. Estructura de Directorios
 
 * Para que el montaje de volúmenes funcione correctamente, la estructura de archivos debe ser la siguiente:
   
 Plaintext/home/live/podman/devops/
+
 ├── compose.yml       # Configuración de servicios (App y DB)
+
 ├── Dockerfile        # Imagen personalizada PHP 8.2 + Apache
+
 └── html/             # Código fuente mapeado al contenedor
     └── app_ef/       # Carpeta principal de CakePHP
     
@@ -52,9 +55,9 @@ Selector de Idiomas:
   
 * Persistencia: El idioma se guarda en el perfil del usuario y en la sesión.
   
-*Descripciones Bilingües: Soporte para títulos y descripciones en diferentes lenguas simultáneamente.
+* Descripciones Bilingües: Soporte para títulos y descripciones en diferentes lenguas simultáneamente.
 
-*Recursos: Uso de archivos .po localizados en resources/locales/.
+* Recursos: Uso de archivos .po localizados en resources/locales/.
 
 
 
