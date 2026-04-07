@@ -1,6 +1,6 @@
-##📝 UPDS TaskManager: Gestión de Tareas Multilingüe
-
-
+---
+📝 UPDS TaskManager: Gestión de Tareas Multilingüe
+---
 
 Descripción del Proyecto
 Este sistema es una solución web para la gestión de tareas personales que prioriza la inclusión lingüística y cultural.
@@ -8,8 +8,9 @@ Permite a cada usuario administrar sus actividades en un entorno adaptado a su i
 
 
 
-##🛠️ Stack Tecnológico
-
+---
+🛠️ Stack Tecnológico
+---
 
 * Framework: CakePHP 5.x (Arquitectura MVC).
 * Lenguaje: PHP 8.4.Base de Datos: MariaDB.
@@ -244,7 +245,8 @@ Selector de Idiomas:
 ---
 
 
-##📸 Vista Previa del Sistema
+---
+📸 Vista Previa del Sistema
 ---
 * Módulo                                                                         *Funcionalidad
 Gestión de Tareas                                                                 CRUD completo con filtros por estado y buscador de títulos.
@@ -253,9 +255,13 @@ Fichas Técnicas                                                                
 Catálogo de Plantas                                                               Módulo de gestión botánica integrado con el sistema de seguridad.
 ---
 
-##🤖 Bitácora de Inteligencia Artificial
+---
+🤖 Bitácora de Inteligencia Artificial
+--
 
 En cumplimiento con el modelo educativo UPDS, se utilizó IA como apoyo estratégico en:
+
+
 ---
 * Optimización DevOps: Creación del Dockerfile y resolución de conflictos de permisos en carpetas tmp/ y logs/.
 * Lógica de Traducción: Generación de archivos de recursos para idiomas con alfabetos no latinos.
@@ -263,5 +269,6 @@ En cumplimiento con el modelo educativo UPDS, se utilizó IA como apoyo estraté
 * Las sugerencias de la IA fueron evaluadas y modificadas críticamente antes de su implementación.
 ---
 
-##👤 Información del Proyecto
+---
 * Autor: Alexandra Ibañez
+---
